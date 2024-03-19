@@ -237,8 +237,9 @@ class nr:
             plt.legend()
             #plt.colorbar(label='Color')
             #plt.grid(True)
+            plt.savefig(f"{self.OUTfig}/{randint(1234)}.jpg")
             plt.show()
-            #plt.savefig(f"{self.OUTfig}/{randint(1234)}.jpg")
+            
     
     
     def main(self) :
