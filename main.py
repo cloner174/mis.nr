@@ -42,44 +42,44 @@ class nr:
         
         print("\n Detecting the folders and subfolders... \n ")
         time.sleep(5)
-        if exists( f"{output_folder}\\CSVs\\" ):
+        if exists( output_folder ):
             print("\n CSVs folder already exists in output folder. cheking next require folder.. \n ")
             time.sleep(1)
-            if exists(f"{output_folder}\\CSVs\\additionals\\") :
+            if exists(output_folder) :
                 pass
             else:
-                os.mkdir(f"{output_folder}\\CSVs\\additionals\\")
+                os.mkdir(output_folder)
         else:
-            os.mkdir(f"{output_folder}\\CSVs\\")
-            if exists(f"{output_folder}\\CSVs\\additionals\\") :
+            os.mkdir(output_folder)
+            if exists(output_folder) :
                 pass
             else:
-                os.mkdir(f"{output_folder}\\CSVs\\additionals\\")
-        if exists( f"{output_folder}\\FCSs\\" ) :
+                os.mkdir(output_folder)
+        if exists(output_folder) :
             print("\n FCSs folder already exists in output folder. cheking next require folder.. \n ")
             time.sleep(1)
         else:
-            os.mkdir(f"{output_folder}\\FCSs\\")
-        if exists( f"{output_folder}\\FIGs\\" ) :
+            os.mkdir(output_folder)
+        if exists( output_folder ) :
             print("\n FIGs folder already exists in output folder. cheking next require folder.. \n ")
             time.sleep(1)
         else:
-            os.mkdir(f"{output_folder}\\FIGs\\")
-        if exists( f"{output_folder}\\singleFiles\\" ) :
+            os.mkdir(output_folder)
+        if exists( output_folder ) :
             print("\n etc folder already exists in output folder. cheking next require folder.. \n ")
             time.sleep(1)
         else:
-            os.mkdir(f"{output_folder}\\singleFiles\\")
+            os.mkdir(output_folder)
         
         print( "\n All Done ! \n ")
         time.sleep(2)
         print("\n Finishing up .... \n ")
         time.sleep(3)
-        self.OUTcsv = f"{output_folder}\\CSVs\\"
-        self.OtherCSV = f"{output_folder}\\CSVs\\additionals\\"
-        self.OUTfcs = f"{output_folder}\\FCSs\\"
-        self.OUTfig = f"{output_folder}\\FIGs\\"
-        self.OUTsingle = f"{output_folder}\\singleFiles\\"
+        self.OUTcsv = output_folder
+        self.OtherCSV = output_folder
+        self.OUTfcs = output_folder
+        self.OUTfig = output_folder
+        self.OUTsingle = output_folder
         
         print( "\n Secssusfully Create The Object. \n ") 
         time.sleep(2)
