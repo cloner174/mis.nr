@@ -138,17 +138,21 @@ class nr:
             arr1 = np.asarray( data1.events )
             arr2 = np.asarray( data2.events )
             
-            data1Arr = arr1.reshape( data1.event_count, -1 )
-            data2Arr = arr2.reshape( data2.event_count, -1 )
+            try:
+                data1Arr = arr1.reshape( data1.event_count, -1 )
+                data2Arr = arr2.reshape( data2.event_count, -1 )
+                arrBoth = np.concatenate( [data1Arr, data2Arr], axis = 1)
+                self.listArrBoth.append( arrBoth )
+                self.listArr1.append(data1Arr)
+                self.listArr2.append( data2Arr )
+                self.listFlowData1.append(data1)
+                self.listFlowData2.append(data2)
+                self.output.append(data1.name)            
+            except:
+                continue
             
-            arrBoth = np.concatenate( [data1Arr, data2Arr], axis = 1)
             
-            self.listArrBoth.append( arrBoth )
-            self.listArr1.append(data1Arr)
-            self.listArr2.append( data2Arr )
-            self.listFlowData1.append(data1)
-            self.listFlowData2.append(data2)
-            self.output.append(data1.name)
+            
     
     
     def save_single( self ) :
