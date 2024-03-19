@@ -2,7 +2,7 @@
 #    #  #                       #         In the name of God   #    #
 #
 #
-#github.com/cloner174
+#github.com\\cloner174
 #cloner174.org@gmail.com
 #
 #
@@ -16,14 +16,14 @@ from os.path import exists
 from numpy.random import randint
 import re
 
-#input_folder = 'data/input'
-#output_folder = 'data/output'
+#input_folder = 'data\\input'
+#output_folder = 'data\\output'
 
-#IN_ = 'data/input/data-normal-hum/data-hum/8527 ZOBEYR MOHAMMADI/'
-#OUT_ = 'data/output'
+#IN_ = 'data\\input\\data-normal-hum\\data-hum\\8527 ZOBEYR MOHAMMADI\\'
+#OUT_ = 'data\\output'
 
 #self.output.append(  os.path.join(self.OUTfcs, anyFile[:-4] + '.fcs') )
-path = os.path.join(base_path, sub_path)
+
 class nr:
     
     def __init__(self, input_folder, output_folder) :
@@ -39,48 +39,47 @@ class nr:
         
         self.inputFolder = input_folder
         self.folderFiles = os.listdir(input_folder)
-        csv_ = os.path.join(output_folder,'CSVs')
-
+        
         print("\n Detecting the folders and subfolders... \n ")
         time.sleep(5)
-        if exists( csv_):
+        if exists( f"{output_folder}\\CSVs\\" ):
             print("\n CSVs folder already exists in output folder. cheking next require folder.. \n ")
             time.sleep(1)
-            if exists(os.path.join(csv_, 'additionals')) :
+            if exists(f"{output_folder}\\CSVs\\additionals\\") :
                 pass
             else:
-                os.mkdir(os.path.join(csv_, 'additionals'))
+                os.mkdir(f"{output_folder}\\CSVs\\additionals\\")
         else:
-            os.mkdir(csv_)
-            if exists(os.path.join(csv_, 'additionals')) :
+            os.mkdir(f"{output_folder}\\CSVs\\")
+            if exists(f"{output_folder}\\CSVs\\additionals\\") :
                 pass
             else:
-                os.mkdir(os.path.join(csv_, 'additionals'))
-        if exists( f"{output_folder}/FCSs/" ) :
+                os.mkdir(f"{output_folder}\\CSVs\\additionals\\")
+        if exists( f"{output_folder}\\FCSs\\" ) :
             print("\n FCSs folder already exists in output folder. cheking next require folder.. \n ")
             time.sleep(1)
         else:
-            os.mkdir(f"{output_folder}/FCSs/")
-        if exists( f"{output_folder}/FIGs/" ) :
+            os.mkdir(f"{output_folder}\\FCSs\\")
+        if exists( f"{output_folder}\\FIGs\\" ) :
             print("\n FIGs folder already exists in output folder. cheking next require folder.. \n ")
             time.sleep(1)
         else:
-            os.mkdir(f"{output_folder}/FIGs/")
-        if exists( f"{output_folder}/singleFiles/" ) :
+            os.mkdir(f"{output_folder}\\FIGs\\")
+        if exists( f"{output_folder}\\singleFiles\\" ) :
             print("\n etc folder already exists in output folder. cheking next require folder.. \n ")
             time.sleep(1)
         else:
-            os.mkdir(f"{output_folder}/singleFiles/")
+            os.mkdir(f"{output_folder}\\singleFiles\\")
         
         print( "\n All Done ! \n ")
         time.sleep(2)
         print("\n Finishing up .... \n ")
         time.sleep(3)
-        self.OUTcsv = f"{output_folder}/CSVs/"
-        self.OtherCSV = f"{output_folder}/CSVs/additionals/"
-        self.OUTfcs = f"{output_folder}/FCSs/"
-        self.OUTfig = f"{output_folder}/FIGs/"
-        self.OUTsingle = f"{output_folder}/singleFiles/"
+        self.OUTcsv = f"{output_folder}\\CSVs\\"
+        self.OtherCSV = f"{output_folder}\\CSVs\\additionals\\"
+        self.OUTfcs = f"{output_folder}\\FCSs\\"
+        self.OUTfig = f"{output_folder}\\FIGs\\"
+        self.OUTsingle = f"{output_folder}\\singleFiles\\"
         
         print( "\n Secssusfully Create The Object. \n ") 
         time.sleep(2)
@@ -170,12 +169,12 @@ class nr:
         dataDF1 = pd.DataFrame(dataDF1)        
         dataDF2 = pd.DataFrame(dataDF2)
         
-        dataDF.to_csv(f"{self.OUTsingle}/{name_}_DataFrame_.csv")
-        dataDF1.to_csv(f"{self.OUTsingle}/{name_}_DataFrame_1_.csv")        
-        dataDF2.to_csv(f"{self.OUTsingle}/{name_}_DataFrame_2_.csv")
+        dataDF.to_csv(f"{self.OUTsingle}\\{name_}_DataFrame_.csv")
+        dataDF1.to_csv(f"{self.OUTsingle}\\{name_}_DataFrame_1_.csv")        
+        dataDF2.to_csv(f"{self.OUTsingle}\\{name_}_DataFrame_2_.csv")
         
-        datafcs1.write_fcs(f'{self.OUTsingle}/{name_}_unit16_.fcs')
-        datafcs2.write_fcs(f'{self.OUTsingle}/{name_}_unit32_.fcs')
+        datafcs1.write_fcs(f'{self.OUTsingle}\\{name_}_unit16_.fcs')
+        datafcs2.write_fcs(f'{self.OUTsingle}\\{name_}_unit32_.fcs')
         
         print(f"\n All the output from this Func is now present in {self.OUTsingle} \n")
         time.sleep(2)
@@ -199,12 +198,12 @@ class nr:
             tempdata1 = pd.DataFrame(tempdata1)
             tempdata2 = pd.DataFrame(tempdata2)
             
-            tempData.to_csv(f"{self.OUTcsv}/{tempName}__idhash{nh}__DataFrame.csv")
-            tempdata1.to_csv(f"{self.OtherCSV}/{tempName}__idhash{nh}__DataFrame_1_.csv")            
-            tempdata2.to_csv(f"{self.OtherCSV}/{tempName}__idhash{nh}__DataFrame_2_.csv")            
+            tempData.to_csv(f"{self.OUTcsv}\\{tempName}__idhash{nh}__DataFrame.csv")
+            tempdata1.to_csv(f"{self.OtherCSV}\\{tempName}__idhash{nh}__DataFrame_1_.csv")            
+            tempdata2.to_csv(f"{self.OtherCSV}\\{tempName}__idhash{nh}__DataFrame_2_.csv")            
             
-            tempfcs_1.write_fcs(f'{self.OUTfcs}/{tempName}_unit16_.fcs')
-            tempfcs_2.write_fcs(f'{self.OUTfcs}/{tempName}_unit32_.fcs')           
+            tempfcs_1.write_fcs(f'{self.OUTfcs}\\{tempName}_unit16_.fcs')
+            tempfcs_2.write_fcs(f'{self.OUTfcs}\\{tempName}_unit32_.fcs')           
         
         print(f"\n All the output from this Func is now present in {self.OUTsingle} \n")
         time.sleep(2)
@@ -238,7 +237,7 @@ class nr:
             plt.legend()
             #plt.colorbar(label='Color')
             #plt.grid(True)
-            plt.savefig(f"{self.OUTfig}/{randint(1234)}.jpg")
+            plt.savefig(f"{self.OUTfig}\\{randint(1234)}.jpg")
             plt.show()
             
     
