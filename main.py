@@ -23,7 +23,7 @@ import re
 #OUT_ = 'data/output'
 
 #self.output.append(  os.path.join(self.OUTfcs, anyFile[:-4] + '.fcs') )
-
+path = os.path.join(base_path, sub_path)
 class nr:
     
     def __init__(self, input_folder, output_folder) :
@@ -39,22 +39,23 @@ class nr:
         
         self.inputFolder = input_folder
         self.folderFiles = os.listdir(input_folder)
-        
+        csv_ = os.path.join(output_folder,'CSVs')
+
         print("\n Detecting the folders and subfolders... \n ")
         time.sleep(5)
-        if exists( f"{output_folder}/CSVs/" ):
+        if exists( csv_):
             print("\n CSVs folder already exists in output folder. cheking next require folder.. \n ")
             time.sleep(1)
-            if exists(f"{output_folder}/CSVs/additionals/") :
+            if exists(os.path.join(csv_, 'additionals')) :
                 pass
             else:
-                os.mkdir(f"{output_folder}/CSVs/additionals/")
+                os.mkdir(os.path.join(csv_, 'additionals'))
         else:
-            os.mkdir(f"{output_folder}/CSVs/")
-            if exists(f"{output_folder}/CSVs/additionals/") :
+            os.mkdir(csv_)
+            if exists(os.path.join(csv_, 'additionals')) :
                 pass
             else:
-                os.mkdir(f"{output_folder}/CSVs/additionals/")
+                os.mkdir(os.path.join(csv_, 'additionals'))
         if exists( f"{output_folder}/FCSs/" ) :
             print("\n FCSs folder already exists in output folder. cheking next require folder.. \n ")
             time.sleep(1)
