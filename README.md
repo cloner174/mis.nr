@@ -1,5 +1,7 @@
 # nr
+
 Nothing so far!
+
 $ git clone https://github.com/whitews/flowio
 
 $ sudo apt update
@@ -27,7 +29,7 @@ $ cd flowio
 $ /home/admin/Documents/Python/mis.nr/.nr/bin/python -m pip install .
 
 
-# if you saw an error like this:: Missing dependencies for SOCKS support
+#if you saw an error like this:: Missing dependencies for SOCKS support
 #simply use the sudo command at the start of pip install lines
 
 
