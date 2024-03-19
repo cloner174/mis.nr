@@ -40,41 +40,6 @@ class nr:
         self.inputFolder = input_folder
         self.folderFiles = os.listdir(input_folder)
         
-        print("\n Detecting the folders and subfolders... \n ")
-        time.sleep(5)
-        if exists( output_folder ):
-            print("\n CSVs folder already exists in output folder. cheking next require folder.. \n ")
-            time.sleep(1)
-            if exists(output_folder) :
-                pass
-            else:
-                os.mkdir(output_folder)
-        else:
-            os.mkdir(output_folder)
-            if exists(output_folder) :
-                pass
-            else:
-                os.mkdir(output_folder)
-        if exists(output_folder) :
-            print("\n FCSs folder already exists in output folder. cheking next require folder.. \n ")
-            time.sleep(1)
-        else:
-            os.mkdir(output_folder)
-        if exists( output_folder ) :
-            print("\n FIGs folder already exists in output folder. cheking next require folder.. \n ")
-            time.sleep(1)
-        else:
-            os.mkdir(output_folder)
-        if exists( output_folder ) :
-            print("\n etc folder already exists in output folder. cheking next require folder.. \n ")
-            time.sleep(1)
-        else:
-            os.mkdir(output_folder)
-        
-        print( "\n All Done ! \n ")
-        time.sleep(2)
-        print("\n Finishing up .... \n ")
-        time.sleep(3)
         self.OUTcsv = output_folder
         self.OtherCSV = output_folder
         self.OUTfcs = output_folder
@@ -93,7 +58,7 @@ class nr:
             
             if anyFile.lower().endswith('.lmd'):
                 
-                self.input.append( os.path.join(self.inputFolder, anyFile) )
+                self.input.append( self.inputFolder, anyFile) )
     
     
     def read_single_file(self, path) :
