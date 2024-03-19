@@ -223,7 +223,7 @@ class nr:
             temp = self.listArrBoth[i]
             for j in range( ((temp.shape[1]) - 2) ) :
                 
-                plt.scatter( temp[:,j], temp[:,j+1] , cmap='Accent', s = 5 )
+                plt.scatter( temp[:,j], temp[:,j+1] , cmap='viridis', s = 3 )
             
             plt.xlim(0, 1025)
             plt.ylim(0, 1025)
@@ -231,8 +231,8 @@ class nr:
             plt.ylabel('SSLin')
             plt.title(label_)
             plt.legend()
-        #plt.colorbar(label='Color')
-        #plt.grid(True)
+            #plt.colorbar(label='Color')
+            #plt.grid(True)
             plt.show()
             #plt.savefig(f"{self.OUTfig}/{randint(1234)}.jpg")
     
