@@ -1,5 +1,20 @@
 # mis.nr
 
+# requirements
+bokeh==2.4.3
+FlowIO==1.1.1
+FlowKit==1.0.1
+FlowUtils==1.1.0b0
+ipython==8.22.2
+pandas==1.5.3
+seaborn==0.11.2
+
+# additional!
+ipykernel==6.29.3
+jupyter_client==8.6.1
+jupyter_core==5.7.2
+keyring==24.3.1
+
 If you do not have venv on your machine , use this for linux ( apt base disterbutions )::
 
         $ sudo apt update
