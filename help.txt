@@ -9,8 +9,9 @@ $ python3 -m venv .nr
 $ pwd #copy the show content
 
 #this is your current path!
+
 #if you see any space in it, you must use quotation whether single ' or double " before and after all the path below when you want use them. other wise you will get an error
-#example of existence :: /home/admin/Doc MyDocuments/Python/ --->> I will use it like this:: "/home/admin/Doc MyDocuments/Python/"
+#example of existence :: /home/admin/My Documents/Python/ --->> I will use it like this:: "/home/admin/My Documents/Python/"
 
 #You will notice that any time you are at the main dicrectory of project, where the .nr folder is present, you do not need to use all the path to your enviremntal python !
 #dont be disapointed if you can not understand the cause of it or even you do not have idea about that kind of stuff, you will figure all that out soon.
@@ -21,11 +22,28 @@ $ /home/admin/Documents/Python/mis.nr/.nr/bin/python -m pip install --upgrade pi
 
 $ cd flowio
 
-
 $ /home/admin/Documents/Python/mis.nr/.nr/bin/python -m pip install .
-
 
 # if you saw an error like this:: Missing dependencies for SOCKS support
 #simply use the sudo command at the start of pip install lines
 
+$ cd ..
+
+$ !git clone https://github.com/whitews/flowutils
+
+$ cd flowutils
+
+$ /home/admin/Documents/Python/mis.nr/.nr/bin/python3 setup.py install
+
+$ cd ..
+
+$ git clone https://github.com/whitews/flowkit
+
+$ cd flowkit
+
+$ /home/admin/Documents/Python/mis.nr/.nr/bin/python3 -m pip install -r requirements.txt
+
+$ /home/admin/Documents/Python/mis.nr/.nr/bin/python3 setup.py install
+
+$ /home/admin/Documents/Python/mis.nr/.nr/bin/python3 -m pip install IPython
 

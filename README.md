@@ -5,17 +5,18 @@ If you do not have venv on your machine , use this for linux ( apt base disterbu
         $ sudo apt update
         $ sudo apt install python3-venv
 
-then;
 
+To create a new private envirement for our project:
+        
         $ python3 -m venv .nr
-to create a new private envirement for our project.
 
 now do this::
 
         $ pwd     #-->>>  copy the shown content
 This is your current path.
-If you see any space in it, you must use quotation whether single ' or double " before and after all the path below when you want use them, Other wise you will get an error!
-Example of existence an space! :: /home/admin/Doc MyDocuments/Python/ --->> I will use it like this:: "/home/admin/Doc MyDocuments/Python/"
+
+If you see any space in it, you must use quotation whether single ' or double " before and after all of the path below when you want use them, Other wise you will get an error!
+Example of existence an space! :: /home/admin/My Documents/Python/ --->> I will use it like this:: "/home/admin/My Documents/Python/"
 
 to start working with your lcoal and new created envirement , in linux use ::
 
@@ -26,19 +27,54 @@ Do not be disapointed if you can not understand the cause of it or even you do n
 
         $ source 'pwd_results/.nr/bin/activate' 
         #for example mine is::
+        
         $ source /home/admin/Documents/Python/mis.nr/.nr/bin/activate
 
 Now upgrade pip using this command::
 
         $ /home/admin/Documents/Python/mis.nr/.nr/bin/python -m pip install --upgrade pip
 
+And;
 
-then;
+        $ git clone https://github.com/whitews/flowio
 
-        $ /home/admin/Documents/Python/mis.nr/.nr/bin/python -m pip install flowcytometrytools
+        $ sudo apt update
+        $ sudo apt install python3-venv
+
+        $ python3 -m venv .nr
+
+
+        $ pwd #copy the show content
+
+#this is your current path!
+
+        $ source 'pwd_results/.nr/bin/activate' #for example mine is::  $ source /home/admin/Documents/Python/mis.nr/.nr/bin/activate
+
+        $ /home/admin/Documents/Python/mis.nr/.nr/bin/python -m pip install --upgrade pip
+
+        $ cd flowio
+
+        $ /home/admin/Documents/Python/mis.nr/.nr/bin/python -m pip install .
 
 If you saw an error like this:: Missing dependencies for SOCKS support
-Or even this:: pip._vendor.urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPoo
-Simply use the sudo command at the start of pip install lines::
-        $ sudo /home/admin/Documents/Python/mis.nr/.nr/bin/python -m pip install --upgrade pip
-        $ sudo /home/admin/Documents/Python/mis.nr/.nr/bin/python -m pip install flowcytometrytools
+#simply use the sudo command at the start of pip install lines
+
+        $ cd ..
+
+        $ !git clone https://github.com/whitews/flowutils
+
+        $ cd flowutils
+
+        $ /home/admin/Documents/Python/mis.nr/.nr/bin/python3 setup.py install
+
+        $ cd ..
+
+        $ git clone https://github.com/whitews/flowkit
+
+        $ cd flowkit
+
+        $ /home/admin/Documents/Python/mis.nr/.nr/bin/python3 -m pip install -r requirements.txt
+
+        $ /home/admin/Documents/Python/mis.nr/.nr/bin/python3 setup.py install
+
+        $ /home/admin/Documents/Python/mis.nr/.nr/bin/python3 -m pip install IPython
