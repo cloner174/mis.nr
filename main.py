@@ -69,18 +69,20 @@ class nr:
             tempcsv_2 = tempfcs_2.as_dataframe(source='raw')
             tempBoth = pd.concat([tempcsv_1,tempcsv_2],axis=1)
             tempBoth.to_csv(f'{self.OUTcsv}/{tempName}_DataFrame_.csv')
-        del self.listFlowData2      
         print(f"\n All the output from this Func is now present in {self.OUTcsv} \n")
         time.sleep(2)
         return
     def draw(self, label = None):
         laybel = []
-        DaTa = []
+        DaTa16 = []
+        DaTa32 = []
         names = []
         for i in range( len(self.listFlowData1) ) :
             name_ = self.names[i]
-            tempfcs = (self.listFlowData1[i])
-            DaTa.append(tempfcs)
+            tempfcs16 = (self.listFlowData1[i])
+            tempfcs32 = (self.listFlowData2[i])
+            DaTa16.append(tempfcs16)
+            DaTa32.append(tempfcs32)
             names.append(name_)
             if label:
                 laybel.append(label)
@@ -93,7 +95,7 @@ class nr:
                     laybel.append('Seek')
                 else:
                     laybel.append(name_)
-        return DaTa, names, laybel
+        return DaTa16, DaTa32, names, laybel
     def main(self) :
         print( " \n \n   !.!.!.>  Please Ignore The warnings  <.!.!.!.\n \n ")
         time.sleep(2)
