@@ -1,0 +1,787 @@
+FCS2.0         256    2621    8192   18552                                                                                                                                                                                                                      \$P1N\FS Lin\$P1S\FS Lin\$P1R\1024\$P1B\16\$P1V\165\@P1GAIN\5.000000\$P1G\5.000000\@P1ADDRESS\6\$P1E\0,0\@P1X\ 0.0, 0.0\@P1U\ \@P1C\ARITHMETIC\@P1Z\ON\@P1Q\FS Lin\$P2N\SS Lin\$P2S\SS Lin\$P2R\1024\$P2B\16\$P2V\648\@P2GAIN\20.000000\$P2G\20.000000\@P2ADDRESS\8\$P2E\0,0\@P2X\ 0.0, 0.0\@P2U\ \@P2C\ARITHMETIC\@P2Z\ON\@P2Q\SS Lin\$P3N\FL1 Log\$P3S\FL1 Log\$P3R\1024\$P3B\16\$P3V\424\@P3GAIN\1.000000\$P3G\1.000000\@P3ADDRESS\15\$P3E\ 4.0,0.1024\@P3U\LOG Channels\@P3C\GEOMETRIC\@P3Z\ON\@P3Q\FL1 Log\$P4N\FL2 Log\$P4S\FL2 Log\$P4R\1024\$P4B\16\$P4V\424\@P4GAIN\1.000000\$P4G\1.000000\@P4ADDRESS\19\$P4E\ 4.0,0.1024\@P4U\LOGChannels\@P4C\GEOMETRIC\@P4Z\ON\@P4Q\FL2 Log\$P5N\FL3 Log\$P5S\FL3 Log\$P5R\1024\$P5B\16\$P5V\402\@P5GAIN\1.000000\$P5G\1.000000\@P5ADDRESS\23\$P5E\ 4.0,0.1024\@P5U\LOG Channels\@P5C\GEOMETRIC\@P5Z\ON\@P5Q\FL3 Log\$P6N\FL4 Log\$P6S\FL4 Log\$P6R\1024\$P6B\16\$P6V\450\@P6GAIN\1.000000\$P6G\1.000000\@P6ADDRESS\27\$P6E\ 4.0,0.1024\@P6U\ \@P6C\GEOMETRIC\@P6Z\ON\@P6Q\FL4 Log\$P7N\FL5 Log\$P7S\FL5 Log\$P7R\1024\$P7B\16\$P7V\577\@P7GAIN\1.000000\$P7G\1.000000\@P7ADDRESS\33\$P7E\ 4.0,0.1024\@P7U\ \@P7C\GEOMETRIC\@P7Z\ON\@P7Q\FL5 Log\$MODE\L\$TOT\740\$PAR\7\$SYS\CXP \$BYTEORD\1,2\$NEXTDATA\45309\$DATATYPE\I\$EXP\ \$PROJ\ \$INST\ALBERT lab\$INSTADDRESS\PIROUZI, tehran\@LOCATION\PIROUZI, tehran\$RUNNUMBER\00000098\@FILEGUID\19F43E92CA802D4D82C488B2CA114D16\$OP\albert\$CYT\Cytomics FC 500\$SMNO\00000098\$SRC\ \$CELLS\ \$BTIM\10:06:08\$ETIM\10:06:22\$DATE\01-Aug-23\@Y2KDATE\20230801\@BASELINEOFFSET\OFF\@STOPREASON\ERROR\$DFC2TO1\0.50\$DFC3TO1\0.00\$DFC4TO1\0.00\$DFC5TO1\0.00\$DFC1TO2\13.30\$DFC3TO2\16.40\$DFC4TO2\0.00\$DFC5TO2\0.00\$DFC1TO3\0.00\$DFC2TO3\11.90\$DFC4TO3\20.30\$DFC5TO3\0.00\$DFC1TO4\0.00\$DFC2TO4\0.00\$DFC3TO4\55.00\$DFC5TO4\0.00\$DFC1TO5\0.00\$DFC2TO5\0.00\$DFC3TO5\0.00\$DFC4TO5\0.00\@DISCRIMINATOR\FS,70\@RATIONUMERATORMUX\6\@RATIODENOMINATORMUX\8\@AUX_SIGNAL\N/A\@RATIO_NUMERATOR\N/A\@RATIO_DENOMINATOR\N/A\@RESAVEDFILE\RUNTIME PROTOCOL\@BARCODE\NoRead\@CAROUSEL\5\@TUBENO\10\@PANEL\ \@SETTINGSFILE\BASE SAMPLE335.PRO\@SETTINGSFILEDATETIME\01-Aug-2023, 10:05:50\@SAMPLEID1\00000098\@SAMPLEID2\ \@SAMPLEID3\ \@SAMPLEID4\ \@COMPENSATIONMODE\Advanced\@ABSCALFACTOR\NOT SET\TESTNAME\BASE SAMPLE335\TESTFILE\BASE SAMPLE335\@CYTOMETERID\AU40349\ACQTIME\14.9\@BUILDNUMBER\3707\$FIL\tdt.LMD\@Acquisition Protocol Offset\0000018808\                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   яяsЄ Zд Эў V К   @ \ D   L F     d   ЉХ -Њ ~ n   ‰ g «   u *   е "   %   f B  l ј ,  G  Ї ‚ P   . h ) µ з  _ m   #Ъ Ф ` e r w яя…  o : В Л F… | K Ђ я B       f 3 яg™     ,    7 3 @ 
+ v t H      Z   /     ? _   Ш 9 v X   ~   » > i   N @   х [ H ~   г b r E   ‘   –  )    % a ѓ D       Z & ѕ s ‡ Ѓ   Љ   „ z z P  s 4 ќ P ¬ a = i   яя4      џ +      `   W И  5 y   И Ќ p W Z ў d њ D 	 O   П — ц Z d [ Q ™ %   F  e  :[ №  J p   К .И b H Ѓ ( ў V p +   ‹ I &Љц B   } = Р й z ]   ‚ ; яя\d @Ў ђ G ў  6 Ѓ   Џ = ™ 7 !   %r     M   д М б U g f - ъ ‡     S + яяЁL o ¬ яяТ  ѕ Z яя®  ” Ђ >яяЈm д « ¶ s      [  † ^ g o   r  ћ        ~ T э л   A   {  ґ  . -   c  џ A k & ^ J & Ї ђ Є 3   Џ  б … # 
+  j Q ѓ K c f G V  яя7џ Aц Dя6W   “ q мЪќѓ Г · _ њ ] _ R   ‘ r Ce° І – & <Ъ     L   ‘ < k r   }   ъ Q h 8   v  ы Љ 	’ ‘  ` x &       L  Ш 5   H   Њ F Є f   ,  _  Є … V  ь   Ъ qh “ | ; вж€     V S 
+i      7 8 џ = ‰ S Z 9 … ‹ R ¶ g   Љ .  (       g <  G  < 
+ 5 ; 5яъ     j H ¬ ¬ % Q  n ] є Ћ       I   Б y © } % ¦ S Э )     & E q Ъ о у k N v 
+ ® Т   I R   яяNЩ @Щ Щт яt` ¶  К яя<ё Х Ћяя&  
+d VЬ|™џ ј ¤  Ё M  7   J  яяЦO ‰ µ _А h    M   Щ E 5   z  † L  . 	 t 7 К яq /   w H ј ] Ѓ :   l - яяГ  Ґ “ a‘ ? * N   n H         P   к € N        Ц     ; X  § G И m P Џ @ ўЄ» D   r  яяЂT 1 ‚ Y ђ       y \  3 ? p  W   мц†     ѓ { ­ B . U  l V яяЛBQЊ 1  "  \  ќ Y       1  §        C   ™         k E  a z F   s   МUa     o   Rу       x 
+ Ђw0  1   Ё        a B Р ¦ › f ) y   ЂУј     n ‹ « 1      6 V Vy ¦ q j І ‘ z f X w   1‹ ф & o 2   н <      P   Ђ A ‹ &  a   ќ *   W   |   |†p     ` _ є W \ t : ” N ¦ В Ў e [ K   Ќ E : G   „   !я<  , v s r я  &   ^ \ 2 A '   ~   џ p c G ; R I )ме    Y ) џ L h ) _ -  а І · c  ^   ђ \ D     n   С -
+l X Ґ f Т k “ H   V T Ј N  C " ‹   )«Q     [ & • y Џ  \ o < яяТj ± Ј Uяяip   f НяTv U – ¤ иа   . M " "€К F   q D яяВ  ± l V‹ 1     4 j   ¤ 	ї f   Ђ   ф f       w   ¤ D   "   c   © 1 k U , j   ;ZT¦ Ћ   V ® ,      R   Eяс B   g V Fяп   1 [  яяL€ y V Е Й © K < Z q r ґ )ю  o > 1 eяћ  † c ® П Љ 
+P Њ u 4 Ћ L \  T M   яяC  F ` 9 Ѕ n ¬ Ѓ   ‡  Щ ж F Y j Y яђo  `   Z О h '     g . Љ +    + @   ’ > Ѓ U   `   ќ . o j  } U ¤ Ы ш , A o . дЕ    Z … ¤ 6 • F S p A яя>i   ѓ „ яяЙP И ^ в*     +   О 6      H  «   -   D   Ћ )     	 Q   †      
+ =   Њ    C 3 C  П ф Т M K f Y Ю%Ў     Q   ‰ = Т 7 4 Ђ E П < ' H   n  И C Z Q 8 } p љ б Ъ T \ j   яях Ъ Ё “яяЅ ¬   З яя—  | , © Х$ Є < К ћ v – (   Ћ W \ф о  x K  Ї { µ M  „ I њ o О k B ]   ё y б X - „ Ђ яя9  I q › ы Ф ’ i " s   яя`/ SА јnЁ     ‡ & №А     Z N яя! э № G‹ : ¶  G ` X Ё „       X   ­ Х Џ Q   0 9 ° † Н n   ) [µ(€ x Њ P ї { ј k   …   ° 4          ~ F v L   ‹   “ U  +   Ћ > dцї     D   яяІ ° ћ‡ S n F   … I яя‘ з l ЋяяЫ  Л m яя5  , 4 ‘ ” k Ё N & †  і B m > . ]   † €     
+ 5   ѕ » ^ : d E ў 5       \ @ – : ” 9 A J . Н   q N   d   яяДy ° “ 'яяѓ “   } яяМ¦ х k =¦ h ° 9   y   Ї l ‹   5 Z M цЉ     ? H ёA-] « †   Ѕ а ґ 8 / v   /ћ7€ Ґ ~   С 0-     k  яя2 ™ q Щ яяч? з · bАя„љgTЏ = “ J # j   фҐ‚     8   Ђ М±   w ѓ   § Њ ­ 6 + Z  ¦ ~ ±    I D Н ч       v   с ї џ r ѓ , ­ K ѓ       ± † —   z   ¤ *       y 4 ъ :H z a  яя{– wу & Q ш u ъ Wx ”  Ф j Е яя‚sш яя†  ]о Йяя-Ћ A ‹ µ 5S   e ; n r 3Jп  · r Ц юяы e   w Ћ Љ 2 I   G I 6 Ћ \ № 3   Џ = уяъi†URА       \ > І       B  z        X   Ю I  [ # ‘ # rN   >   І N ђ b   z   ѕ Ё ѕ B 8 ‹  ш џ Ы ] > † U яЈ1U  Ђ Ў яяЬV Я € ]яя~  ћ - » яяг U ] v Т ™ Љ a  ‚  В и Й  ! _   ђяЖ B   V n ђ N Д   : a   K9?Г ¶ ј 4 › 3       z   Ћ с Л % w p  ›   4 = 1   ђ s ў 6 ' j v З        a   № ‹ › l 6 † & Ќ - » % 7 „  ю Yq     N   ќ P       g   й ‚ Ю k 4 T    Ћ І   W D   Щ Ґ к = Z n   Й ‰ » Z  ™   ¬ @ Ѕ w @ ђ 0 Й Yѕ  ] a   Ь J   ;   1  >       i   € J y &   S % к ¬ ж < a • C « ђ D     w # – Ќ    > E  § C t ? A :  ќ ™ й M   v V њ џ © `   }  Л Ђ е ^ h m   …        Q   Ђя h – i / Щ       ]   Ѕ Ё < 3   x 0 ¤ ¦ µ f J k   № Ф Ф Ѓ   …   ¬ E § - Q C   ‘ ,  O   ^   ‡ -   Y   n  ‰   B   v   ¤ X k ?  S   ?rf „ Z   %   ?   {   г T V 3  t c Ќ    '   e T Щ э › ^ g H   Л       `   Ў С R R W   ч U N |   љ &      n  w« Г U  l   њ +      }  · ћ Ј U N m 7 ь n Г \ 9 Ѓ I р =   (   o , я л Y     Y   яя	  ю { jяя2­ *З  яяРU c @гх  H s яя’, ¶  6А Њ: } ^ z “ я@   ‰   яя­  Љъ G®    T   o  mяb  ’ 8 ’ &яЧ     g P Ѕ м e     l ^ ‰ е ґ = B q P З p #   e 9 Тяи P   c   ™ ` Ђ Z   s @ Ї № Ќ   X   § S Џ L   v I А U Џ P . P 6 ќ J c  G c   ¤ L   %  Џ   Њ |       c     \ Ґ  V >  Т ¤       l   %       J   ё N U     | ; Б С ш Q D z < К  Y = ђ   ґ Љ 
+   = C 2 а Э     	 T f Н X      z   ‡#     V   x‘-ћ © m   Ў    f   r % л х  d i   М + 2   F V @ ¶ ; ( t   `    ;: p  ; ю b t w   † M Ѕ ‚ О ]  ™   G`ч } „ Ћ   † D      g  л· f  y   ¬ і Р n  Њ A ў Ъч O H •   ™ h < D E T A Њ Ї Ћ  7 r   б Ь №    m   Њ E • S  Љ + я 8О D < P  р Г     X " 5mЛ     {  ѕяNG У b Ъ RR    n   Э _ 8 — ) … J W 9   i   $a Ѓ j 9 !6У N ? p & џ З e &  )   Ѕ K       Z   ё яИ + € e S Е 8      x   ќ W       ‚   § : o N n n ” ¬ ’ q a   l   Х ф ·  ( R f З э E  d  JфBћ џ ­ j ¬ м ± m L t $ € {     ! T ; ч 
+† „ ° J • H ™ 2   w ; Б k • K , „ 3 ќ \       c # № ;p     J   Њ h o N - _ j Л = € q   | = Ћ . ѓ i   ‡   cТK Ё   ‰ Щ г B f } @ ЮRU– ґ ђ © г ќ    % i  ‰ ;   )   c   | P ў   j 0 ¶ Ь г ‚ E €  8uz r ќ   й aD d Н a р 5   /   ^   ё ™     
+ T   Ч 2Ь G X j V Ћ > s , < t q ~       y   т ѕс x c w   Њ Э ‹  Ђ , т k      … G ¬ ќ V - V   ђ N      D S 3/Т ` ] y 9 ~ ? њ Q В KФ † 8 Њ   ‚ h       b   Ћ @ Ї ;  y  яяТ  Н ‰ :яяJЇ &я Ј
+RG! s Ђ x Є @ ”   o E O › { «  4 f   Ь ¤ г \ T r / ‹ n У j ? {   Б Ы Ы   y - 9 д Я  “ G љ m … + ]     ‡   Ќ        \   0яњ W   0 Ц xj N  / Ј B ! !   s   О п o ~ ђ ` № UЇ + P t   <k7– ¶ z a э …       „   Ѕ A      Ђ D яя6	   Ї Л ЬҐ < O A H ќ V € ' X ] B  ”      e   RK
+ 5 T | яя5  + n Н Щ0 '  з V ц яяk! ‘ Y ¶ Ї :       L 3 “ MU     X   Ѓ •    p  х й W 9 Њ _ яя9   d b яя@8 i Џ ® ИФD .   Ђ e №ZЕ   W ? Ј № z Љ n 
+ Q W яянN И g яяз  Р ¦ Ў W ” -   w # яяЂ  U z ­ б Ґ X "   T    ў'   { i П ¦      V  к 1ж   ) :   Р@• V « 1 © s О   M „    Њ ¶ : Z f  Н Џ — = E Q   ‘ D {  , P   Ю т i     o f яя A ® Ћ Ћ яяР	 ъ   яяЫ  – › ?О d Ў w  ¦ L ^яc  c } А яя®  З ¦ ™ яя*    “ | в *k( Ё | н Ъe      ђ Ј яяўП …яяl  _­ Ья?j    q ‘ д § Ґ   # h B mяЪ j   Q ¶ эВ     Z " (®О     #  П ж з P Y y  >     	 i   О       L  € $     ^   “ S ¶  E – G ® M       z   “ Y µ a V w 9  6 P !   h 7 Л Х H N Ґ  Ц в !E f {  µфё 9   J _ ґ c q A   x  яяE  Q ‡ ~ ї      A Y — J        d А f ° > f K  ћ %       a   « R      _ N ;E   $   z   і ¦   F   b 6 Ж a ‚ %  x   Ґ @   3   u   ќG*   b ± х Ћ$o ‚ w   ¦ <   $   _ 9 А С      j   … S Ћ j ! m I { 6 Z 6 V &   Ч ~ ј   * i + ё з М j U t ^ ј Б    _ p я       7   Є K Ё E 2 w    0 3     K   Ћ N –   N k  ю Ц x   < W  Ћ 2      } C „ K Ґ  : › & ¤ 7 V   Y 4 є `У S % n n Й 6       •   GЎЌ – Z   И Ј     :   И -г 0 g R E ± д ѕ Q   Љ   • 9     M w S Ч %ш  c ™ 1 З 5 ] h   ђ P Т ё Є T   Ј   ® Х % a `   !я¬     L w Ґ : S 1 @ J & б s       E   “ ) i Q H S   Ь ` ‰ "   <  Ј /  0   h & Ч < Џ ~ ” Њ   К m   +   f & /W       { 8 ”        R   KD: ‘ " X 6‰ ‘ O   …   lЂ§ m ` T п !       ^   „ч P f ђ   ѓ 6 • H 0 }   А » ё <   †  З QЎ a < m   ј Д F  _ / € 4 m +   Ђ  † Ђ ·  2 G   д Їљ    l  є ы А H  ‹ 8 ”Nу q T Ђ X ъ n њ I I [   А®]К Ў В d ј  #   z   Ќ ј   ;   '   Х C    K R   ћ @ Й F b J . ¦ Ў          Ю R _   {   љ       K Z в a Ѓ     s ; ї +       Z ѓ Ђ 0   "   i   Ѓ P F ?  h + ќ : ¦   k )  9   ; : 3   x !  +   e   ‚     4 e  і ‡ u   0 N   Ю        j  ’ ?   Q   Ѓ _ Ъ :    	 L   µ±#    ) * >'#® Ќ ¦   ¶ R W  [ =   "€ Ъ N W „   Х 9       f   ш и ’     0   Ґ Т » Q # |   яя Ќ g Њ :Џ Љ       K   “ 4 c $  ~ E яя–  I   х <‰= < Z Ѓ яя…“ЁP•яяsH IщlЉн v 2 ~ _ яя_0 D „ S яя ’ ,‡ Sяял¶ ё О 8яя\    Њ і ѕШ ]   ~ ў ’O  E “ … +    ( [ ) V‘Ѕ G   Ѓ 6 (›     g   ‰ЃRї « Љ   № oR     R \ ‡ O       R   д °   &   |   [k  A    яя†s+vяЋ  O m Ў S ­   % n Q яя} р В ]яяQ    љ N шяL  Ќ  ¬ ўяe  z 2 v яяэ    єяя¤V ^ ‚ и Ю ‡э T D  ™ яяOH ® ™ГяС? ў # T яя¦  ‚ O П яя›  "y =яя‚  M • с яяС  ± l 9фЙ i  ~ Y Я Ѕ ¶ $ V p  ©_	  A   Й D      y   Є Ї B a E K € , ,     t 2 юяз     g S М ( <    Y   е † Ш M 8 y    c ґ I  s _ ,Џ Є ~  “ E —  L Q  МяЮ  9  К к 5o     f P Џ ,Ъ  \ =  { Q ђ     a   е A       и 4     ( l 4 ћ c S   i   ь т» q # ѓ  с–2ђ Џ ’ L )А       k   и п S  a 7 ќ R “ E   Њ  Ѓ f ~   ` Q   ¶ g † W O N , х “ ё  R \   Ш Ы З \ /   ђ ‘ н ѓ d ђ  ћ+‚ u ]   
+9€ Џ k D џ › К 7 ` c 9 ь ` J } L Ё Y Ќ / # Ђ        M   ‰       Ђ " ‰›#    |   љ q № i  _   ¬ 6      - 5 ў | © = 8 C   р » А c x 6   € 4       ?  |О Л i  –  T	з \ m [   € - ґ q i ` ~ ¬ N     X _ ~ n ґ    g y ’ 8 H N  z   Њ \ y  A  9 Є (       h   ­ « | E @ ‚ D — п к l  y f ’ € В U X e 6 Ю >   .   %   яя4   Љ  яя»  З 7 ц ‰яT  Y ‡ М  tЬ , ] <  ”        f 7 я ~ · < Ђ C   • - t D  ‚ W – I `     o   Э o } s N Є E ©   a ^ Z ’ I ] (   o P -       z , ‡ Ј ® 7   ‡  ‘ , “ . " x E “ #      Z ; д '  /   L   ‹ "   ,   [ < ь U‰     u  Ў NГ ] i o   џ ; Ќ   ]   x > L     † ) Ј F p , > h 6 ¤ з Ї g 8 W   Р { b    t ; љ С С w : ›   е ° ш h q g K ћ + Ѓ   Q n  ­ I …     [ T Ј 2 9 R   n   § џ ё > V T R ¦     % V y – 2   0   B " Г  к H > e   ђ (     	 N   “ @ ”    m  †      „  Є Q   <   n   ѕ и ќ g   ~   Љ 7 c R  n   Ж    F   a @ ћ Ј Ь v c T   џ Q f 9 i  , Ґ       d E ¤ ц т . \ j R  ј  I … Q Є Ж    m   Б nз w j N %                                                                                                                                                                                                                                                                 Ѓg  
+[Plot :2]
+IsUser=0
+Resolution=0
+ShowYLabels=1
+fFaceName=Arial
+UserDefinedStatsPaneHeight=0
+IsTotal=0
+Save As FCS=0
+UniqueID=57043277
+ClippedMax=9
+XLabelCaption=CD8PE
+X Parameter=3
+StatsPaneOpen=1
+AttrW=418
+Scale Mode=1
+LowerChannel=0
+ShowPlotTitle=1
+AttrX=394
+Plot Number=2
+PrcGateCount=0
+StatsColumnOrder=0,1,2,3,4,5
+AttrH=349
+AttrY=410
+IsGated=0
+ShowPercentInRegion=0
+UpperChannel=0
+fHeight=10
+Plot Type=130
+FileName=0
+YLabelCaption=$STAIN
+StatsPaneHeight=74
+Show Regions=A,6,
+ShowYTicks=1
+fWeight=700
+Gate Number=1
+ShowXTicks=1
+fDeciPointSize=140
+StatsColumnSortPrecedence=0
+IsClipped=1
+Use As Stop=0
+fStyle=0
+Smooth=0
+UserMax=6
+Stop Count=5000
+MaxMinStatus=0
+Color=16777215
+Local Color=0
+AutoMax=125
+Y Parameter=1
+ShowXLabels=1
+fColor=0
+StatsColumnAttributes=Region·49·-1ЇNumber·56·-1Ї%Total·49·-1Ї%Gated·53·-1ЇX-Mean·54·-1ЇY-Mean·54·-1
+
+[Plot :3]
+ShowYLabels=1
+fFaceName=Arial
+UserDefinedStatsPaneHeight=0
+DotDisplayFactor=50
+Save As FCS=0
+UniqueID=3415753
+XLabelCaption=$STAIN
+X Parameter=0
+StatsPaneOpen=1
+AttrW=432
+ShowPlotTitle=1
+AttrX=9
+Plot Number=3
+PrcGateCount=0
+StatsColumnOrder=0,1,2,3,4,5
+AttrH=360
+AttrY=3
+ShowPercentInRegion=0
+PlotResolution=256
+fHeight=10
+Plot Type=170
+FileName=0
+YLabelCaption=$STAIN
+StatsPaneHeight=74
+Show Regions=A,0,
+ShowYTicks=1
+fWeight=700
+Gate Number=0
+ShowXTicks=1
+fDeciPointSize=140
+StatsColumnSortPrecedence=0
+Use As Stop=0
+fStyle=0
+Stop Count=5000
+MaxMinStatus=0
+Y Parameter=1
+ShowXLabels=1
+fColor=0
+StatsColumnAttributes=Region·55·-1ЇNumber·63·-1Ї%Total·46·-1Ї%Gated·49·-1ЇX-Mean·49·-1ЇY-Mean·65·-1
+
+[Statistics]
+Line Count=13
+Line 1=#\AutoMode 2\1\GeometricMeans\1\OutputAs\#
+Line 2=#0\Calibrate\0\InhibitInfoReport\0\RgnRep#
+Line 10=#Y-CV\OFF\$S0HP Y-CV\OFF\$S0X-Min\OFF\$S0#
+Line 3=#ort\0\GateReport\0\StatsReport\0\ReportC#
+Line 11=#X-Max\OFF\@NumStatStrings\0\ClassArrayIn#
+Line 4=#urrentFile\1\ReportCalcmethod\1\ReportCa#
+Line 12=#dex\0\1\2\ClassArrayIndex\1\2\3\ClassArr#
+Line 5=#librationInfo\0\MeanCalcMethod\0\$S0Abso#
+Line 13=#ayIndex\2\1\2#
+Line 6=#lute Count\OFF\$S0Absolute Count\OFF\$S0#
+Line 7=#Number\ON\$S0%Total\ON\$S0%Gated\ON\$S0X#
+Line 8=#-Mode\OFF\$S0X-Mean\ON\$S0X-CV\OFF\$S0HP#
+Line 9=# X-CV\OFF\$S0Y-Mode\OFF\$S0Y-Mean\ON\$S0#
+Character Count=493
+
+[Plot :4]
+IsUser=0
+Resolution=0
+ShowYLabels=1
+fFaceName=Arial
+UserDefinedStatsPaneHeight=0
+IsTotal=0
+Save As FCS=0
+UniqueID=55056823
+ClippedMax=5
+XLabelCaption=CD4FITC
+X Parameter=2
+StatsPaneOpen=1
+AttrW=424
+Scale Mode=1
+LowerChannel=0
+ShowPlotTitle=1
+AttrX=23
+Plot Number=4
+PrcGateCount=0
+StatsColumnOrder=0,1,2,3,4,5
+AttrH=361
+AttrY=414
+IsGated=0
+ShowPercentInRegion=0
+UpperChannel=0
+fHeight=10
+Plot Type=130
+FileName=0
+YLabelCaption=$STAIN
+StatsPaneHeight=74
+Show Regions=A,5,
+ShowYTicks=1
+fWeight=700
+Gate Number=1
+ShowXTicks=1
+fDeciPointSize=140
+StatsColumnSortPrecedence=0
+IsClipped=1
+Use As Stop=0
+fStyle=0
+Smooth=0
+UserMax=29
+Stop Count=5000
+MaxMinStatus=0
+Color=16777215
+Local Color=0
+AutoMax=138
+Y Parameter=1
+ShowXLabels=1
+fColor=0
+StatsColumnAttributes=Region·49·-1ЇNumber·56·-1Ї%Total·49·-1Ї%Gated·53·-1ЇX-Mean·54·-1ЇY-Mean·54·-1
+
+[Gates]
+Line Count=6
+Line 1=#\$G0N\Ungated\$G0M\ \$G0L\ \$G0C\8421504#
+Line 2=#\$G99N\Exclude All Data\$G99M\ \$G99L\ \#
+Line 3=#$G99C\8421504\$G1N\A\$G1M\R1\$G1L\A\$G1C#
+Line 4=#\255\$G2N\C\$G2M\R1&R6\$G2L\A AND C\$G2C#
+Line 5=#\65280\$G3N\D\$G3M\R1&R7\$G3L\A AND D\$G#
+Line 6=#3C\16711680\#
+Character Count=212
+
+[Regions]
+Line 123=#GATELINEWEIGHT\0\@R6AUTOSETUPTARGET\0\@R#
+Line 112=#\@R1AUTOGATELINEWEIGHT\0\@R1AUTOSETUPTAR#
+Line 101=#\\$R1N\A\$R1I\1,2\$R1W\42,-4;42,-4;42,-4#
+Line 93=#000000\@R7AUTOGATETYPE\0\@R7AUTOGATESENS#
+Line 82=#0\@R11AUTOGATETYPE\0\@R11AUTOGATESENSITI#
+Line 71=#0AUTOGATESENSITIVITY\0.000000\@R10AUTOGA#
+Line 60=#TESENSITIVITY\0.000000\@R9AUTOGATETRAVEL#
+Line 124=#6MINIMUMCOUNTENABLED\0\@R6MINIMUMCOUNTVA#
+Line 113=#GET\0\@R1MINIMUMCOUNTENABLED\0\@R1MINIMU#
+Line 102=#;42,-4;42,-4;42,-4;42,-4;42,116;63,223;2#
+Line 94=#ITIVITY\0.000000\@R7AUTOGATETRAVEL\0.000#
+Line 83=#VITY\0.000000\@R11AUTOGATETRAVEL\0.00000#
+Line 72=#TETRAVEL\0.000000\@R10AUTOGATECOLOUR\0\@#
+Line 61=#\0.000000\@R9AUTOGATECOLOUR\0\@R9AUTOGAT#
+Line 50=#000\@R8AUTOGATECOLOUR\0\@R8AUTOGATELINEW#
+Line 125=#LUE\0\@R6QUADRANTIDENTIFIER\0\@R6AUTOMAT#
+Line 114=#MCOUNTVALUE\0\@R1QUADRANTIDENTIFIER\0\@R#
+Line 103=#41,241;356,223;415,195;424,149;390,-4;39#
+Line 95=#000\@R7AUTOGATECOLOUR\0\@R7AUTOGATELINEW#
+Line 84=#0\@R11AUTOGATECOLOUR\0\@R11AUTOGATELINEW#
+Line 73=#R10AUTOGATELINEWEIGHT\0\@R10AUTOSETUPTAR#
+Line 62=#ELINEWEIGHT\0\@R9AUTOSETUPTARGET\0\@R9MI#
+Line 51=#EIGHT\0\@R8AUTOSETUPTARGET\0\@R8MINIMUMC#
+Line 40=#IGHT\0\@R5AUTOSETUPTARGET\0\@R5MINIMUMCO#
+Line Count=128
+Line 126=#ICLABELPOSITION\0\@R6QCEXPORTABLE\0\@R6Q#
+Line 115=#1AUTOMATICLABELPOSITION\0\@R1QCEXPORTABL#
+Line 104=#0,-4;343,-4;343,-4;343,-4;144,-4;89,-4;8#
+Line 96=#EIGHT\0\@R7AUTOSETUPTARGET\0\@R7MINIMUMC#
+Line 85=#EIGHT\0\@R11AUTOSETUPTARGET\0\@R11MINIMU#
+Line 74=#GET\0\@R10MINIMUMCOUNTENABLED\0\@R10MINI#
+Line 63=#NIMUMCOUNTENABLED\0\@R9MINIMUMCOUNTVALUE#
+Line 52=#OUNTENABLED\0\@R8MINIMUMCOUNTVALUE\0\@R8#
+Line 41=#UNTENABLED\0\@R5MINIMUMCOUNTVALUE\0\@R5Q#
+Line 30=#UNTENABLED\0\@R4MINIMUMCOUNTVALUE\0\@R4Q#
+Line 1=#\$R2N\B1\$R2I\3,4\$R2W\0,94;240,1023;\$R#
+Line 127=#CPRODUCTCODE\\@R6LINKEDREGION\0\@R6REGIO#
+Line 116=#E\0\@R1QCPRODUCTCODE\\@R1LINKEDREGION\0\#
+Line 105=#9,-4;42,-4;42,-4;42,-4;42,-4;42,-4;42,-4#
+Line 97=#OUNTENABLED\0\@R7MINIMUMCOUNTVALUE\0\@R7#
+Line 86=#MCOUNTENABLED\0\@R11MINIMUMCOUNTVALUE\0\#
+Line 75=#MUMCOUNTVALUE\0\@R10QUADRANTIDENTIFIER\3#
+Line 64=#\0\@R9QUADRANTIDENTIFIER\2\@R9AUTOMATICL#
+Line 53=#QUADRANTIDENTIFIER\1\@R8AUTOMATICLABELPO#
+Line 42=#UADRANTIDENTIFIER\4\@R5AUTOMATICLABELPOS#
+Line 31=#UADRANTIDENTIFIER\3\@R4AUTOMATICLABELPOS#
+Line 20=#\@R3QUADRANTIDENTIFIER\2\@R3AUTOMATICLAB#
+Line 2=#2P\1,1022\$R2T\257\@R2PRIME\0\@R2POSITIV#
+Line 128=#NLINKEDTO\\#
+Line 117=#@R1REGIONLINKEDTO\\$R6N\C\$R6I\3\$R6W\31#
+Line 106=#;42,-4;42,-4;42,-4;42,-4;42,-4;42,-4;42,#
+Line 98=#QUADRANTIDENTIFIER\0\@R7AUTOMATICLABELPO#
+Line 87=#@R11QUADRANTIDENTIFIER\4\@R11AUTOMATICLA#
+Line 76=#\@R10AUTOMATICLABELPOSITION\1\@R10QCEXPO#
+Line 65=#ABELPOSITION\1\@R9QCEXPORTABLE\0\@R9QCPR#
+Line 54=#SITION\1\@R8QCEXPORTABLE\0\@R8QCPRODUCTC#
+Line 43=#ITION\1\@R5QCEXPORTABLE\0\@R5QCPRODUCTCO#
+Line 32=#ITION\1\@R4QCEXPORTABLE\0\@R4QCPRODUCTCO#
+Line 21=#ELPOSITION\1\@R3QCEXPORTABLE\0\@R3QCPROD#
+Line 10=#ITION\1\@R2QCEXPORTABLE\0\@R2QCPRODUCTCO#
+Line 3=#ESANALYSIS\0\@R2POSITIVESSENSITIVITY\0.0#
+Line 118=#1,895;1015,895;\$R6P\311,952\@R6PRIME\0\#
+Line 107=#-4;42,-4;42,-4;42,-4;\$R1P\870,-7730\@R1#
+Line 99=#SITION\1\@R7QCEXPORTABLE\0\@R7QCPRODUCTC#
+Line 88=#BELPOSITION\1\@R11QCEXPORTABLE\0\@R11QCP#
+Line 77=#RTABLE\0\@R10QCPRODUCTCODE\\@R10LINKEDRE#
+Line 66=#ODUCTCODE\\@R9LINKEDREGION\0\@R9REGIONLI#
+Line 55=#ODE\\@R8LINKEDREGION\0\@R8REGIONLINKEDTO#
+Line 44=#DE\\@R5LINKEDREGION\0\@R5REGIONLINKEDTO\#
+Line 33=#DE\\@R4LINKEDREGION\0\@R4REGIONLINKEDTO\#
+Line 22=#UCTCODE\\@R3LINKEDREGION\0\@R3REGIONLINK#
+Line 11=#DE\\@R2LINKEDREGION\0\@R2REGIONLINKEDTO\#
+Line 4=#00000\@R2AUTOGATETYPE\0\@R2AUTOGATESENSI#
+Line 119=#@R6POSITIVESANALYSIS\0\@R6POSITIVESSENSI#
+Line 108=#PRIME\0\@R1POSITIVESANALYSIS\0\@R1POSITI#
+Line 89=#RODUCTCODE\\@R11LINKEDREGION\0\@R11REGIO#
+Line 78=#GION\0\@R10REGIONLINKEDTO\\$R11N\E4\$R11#
+Line 67=#NKEDTO\\$R10N\E3\$R10I\3,4\$R10W\0,0;242#
+Line 56=#\\$R9N\E2\$R9I\3,4\$R9W\243,109;1023,102#
+Line 45=#\$R8N\E1\$R8I\3,4\$R8W\0,109;242,1023;\$#
+Line 34=#\$R5N\B4\$R5I\3,4\$R5W\241,0;1023,93;\$R#
+Line 23=#EDTO\\$R4N\B3\$R4I\3,4\$R4W\0,0;240,93;\#
+Line 12=#\$R3N\B2\$R3I\3,4\$R3W\241,94;1023,1023;#
+Line 5=#TIVITY\0.000000\@R2AUTOGATETRAVEL\0.0000#
+Line 109=#VESSENSITIVITY\0.000000\@R1AUTOGATETYPE\#
+Line 79=#I\3,4\$R11W\243,0;1023,108;\$R11P\244,10#
+Line 68=#,108;\$R10P\1,107\$R10T\258\@R10PRIME\0\#
+Line 57=#3;\$R9P\244,1022\$R9T\258\@R9PRIME\0\@R9#
+Line 46=#R8P\1,1022\$R8T\258\@R8PRIME\0\@R8POSITI#
+Line 35=#5P\242,92\$R5T\257\@R5PRIME\0\@R5POSITIV#
+Line 24=#$R4P\1,92\$R4T\257\@R4PRIME\0\@R4POSITIV#
+Line 13=#\$R3P\242,1022\$R3T\257\@R3PRIME\0\@R3PO#
+Line 6=#00\@R2AUTOGATECOLOUR\0\@R2AUTOGATELINEWE#
+Line 69=#@R10POSITIVESANALYSIS\0\@R10POSITIVESSEN#
+Line 58=#POSITIVESANALYSIS\0\@R9POSITIVESSENSITIV#
+Line 47=#VESANALYSIS\0\@R8POSITIVESSENSITIVITY\0.#
+Line 36=#ESANALYSIS\0\@R5POSITIVESSENSITIVITY\0.0#
+Line 25=#ESANALYSIS\0\@R4POSITIVESSENSITIVITY\0.0#
+Line 14=#SITIVESANALYSIS\0\@R3POSITIVESSENSITIVIT#
+Line 7=#IGHT\0\@R2AUTOSETUPTARGET\0\@R2MINIMUMCO#
+Line 59=#ITY\0.000000\@R9AUTOGATETYPE\0\@R9AUTOGA#
+Line 48=#000000\@R8AUTOGATETYPE\0\@R8AUTOGATESENS#
+Line 37=#00000\@R5AUTOGATETYPE\0\@R5AUTOGATESENSI#
+Line 26=#00000\@R4AUTOGATETYPE\0\@R4AUTOGATESENSI#
+Line 15=#Y\0.000000\@R3AUTOGATETYPE\0\@R3AUTOGATE#
+Line 8=#UNTENABLED\0\@R2MINIMUMCOUNTVALUE\0\@R2Q#
+Line 49=#ITIVITY\0.000000\@R8AUTOGATETRAVEL\0.000#
+Line 38=#TIVITY\0.000000\@R5AUTOGATETRAVEL\0.0000#
+Line 27=#TIVITY\0.000000\@R4AUTOGATETRAVEL\0.0000#
+Line 16=#SENSITIVITY\0.000000\@R3AUTOGATETRAVEL\0#
+Line 9=#UADRANTIDENTIFIER\1\@R2AUTOMATICLABELPOS#
+Line 39=#00\@R5AUTOGATECOLOUR\0\@R5AUTOGATELINEWE#
+Line 28=#00\@R4AUTOGATECOLOUR\0\@R4AUTOGATELINEWE#
+Line 17=#.000000\@R3AUTOGATECOLOUR\0\@R3AUTOGATEL#
+Line 29=#IGHT\0\@R4AUTOSETUPTARGET\0\@R4MINIMUMCO#
+Line 18=#INEWEIGHT\0\@R3AUTOSETUPTARGET\0\@R3MINI#
+Line 120=#TIVITY\2.000000\@R6AUTOGATETYPE\0\@R6AUT#
+Line 90=#NLINKEDTO\\$R7N\D\$R7I\4\$R7W\155,864;88#
+Line 19=#MUMCOUNTENABLED\0\@R3MINIMUMCOUNTVALUE\0#
+Character Count=5091
+Line 121=#OGATESENSITIVITY\0.000000\@R6AUTOGATETRA#
+Line 110=#0\@R1AUTOGATESENSITIVITY\0.000000\@R1AUT#
+Line 91=#2,864;\$R7P\155,878\@R7PRIME\0\@R7POSITI#
+Line 80=#7\$R11T\258\@R11PRIME\0\@R11POSITIVESANA#
+Line 122=#VEL\0.000000\@R6AUTOGATECOLOUR\0\@R6AUTO#
+Line 111=#OGATETRAVEL\0.000000\@R1AUTOGATECOLOUR\0#
+Line 100=#ODE\\@R7LINKEDREGION\0\@R7REGIONLINKEDTO#
+Line 92=#VESANALYSIS\0\@R7POSITIVESSENSITIVITY\2.#
+Line 81=#LYSIS\0\@R11POSITIVESSENSITIVITY\0.00000#
+Line 70=#SITIVITY\0.000000\@R10AUTOGATETYPE\0\@R1#
+
+[UserDetectorNames]
+UserDetectorName0=FS
+UserDetectorName1=SS
+UserDetectorName2=FL1
+UserDetectorName3=FL2
+UserDetectorName4=FL3
+UserDetectorName5=FL4
+UserDetectorName6=FL5
+UserDetectorName7=AUX
+UserDetectorNameCount=8
+
+[PARAMETERSTRING]
+Line 112=#0000000000000000000000000000000000000000#
+Line 101=#0000000000000000000000000000000000000000#
+Line 93=#0000000000000000000000000000000000000000#
+Line 82=#0000000000000000000000000000000000000000#
+Line 71=#0000000000000000000000850000000000000000#
+Line 60=#0000000000000000000000000000000000000000#
+Line 113=#0000000000000000000000000000000000000000#
+Line 102=#0000000000000000000000000000000000000000#
+Line 94=#0000000000000000000000000000000000000000#
+Line 83=#0000000000000000000000000000000000000000#
+Line 72=#00000000000000A4000000000000000000000000#
+Line 61=#0000000000000000000000000000000000000000#
+Line 50=#0000000000000000000000000000000000000000#
+Line 114=#0000000000000000000000000000000000000022#
+Line 103=#0000000000000000000000000000000000000000#
+Line 95=#0000000000000000000000000000000000000000#
+Line 84=#0000000000000000000000000000007700000000#
+Line 73=#0000000000000000000000000000000000000000#
+Line 62=#0000000000000000000000000000000000000000#
+Line 51=#0000000000000000000000000000000000000000#
+Line 40=#0000000000000000000000000000000000000000#
+Line Count=117
+Line 115=#010006080C000001E803E8030000000000000000#
+Line 104=#0000000000000000000000000000000000000000#
+Line 96=#0000000000000000000000000000000000000000#
+Line 85=#0000000000000000000000CB0000000000000000#
+Line 74=#0000000000000000000000000000000000000000#
+Line 63=#0000000000000000000000000000000000000000#
+Line 52=#0000000000000000000000000000000000000000#
+Line 41=#0000000000000000000000000000000000000000#
+Line 30=#0000000000000000000000000000000000000000#
+Line 1=#00000F03070006080F13171B2101010101010101#
+Line 116=#0000000000000000020000000000000000000000#
+Line 105=#0000000000000000000000000000000000000000#
+Line 97=#0000000000000000000000000000000000000026#
+Line 86=#0000000000000000000000000000000000000000#
+Line 75=#0000000000000000000000000000000000000000#
+Line 64=#0000000000000000000000000000000000000000#
+Line 53=#0000000000000000000000000000000000000000#
+Line 42=#0000000000000000000000000000000000000000#
+Line 31=#0000000000000000000000000000000000000000#
+Line 20=#0000000000000000000000000000000000000000#
+Line 2=#0101000000000000000000000000000000000000#
+Line 117=#00000000000000000000000000000000*1000*#
+Line 106=#0000000000000000000000000000000000000000#
+Line 98=#0200000000000000000000000000000000000000#
+Line 87=#0000000000000000000000000000000000000000#
+Line 76=#0000000000000000000000000000000000000000#
+Line 65=#0000000000000000000000000000000000000000#
+Line 54=#0000000000000000000000000000000000000000#
+Line 43=#0000000000000000000000000000000000000000#
+Line 32=#0000000000000000000000000000000000000000#
+Line 21=#0000000000000000000000000000000000000000#
+Line 10=#000000C80000000A000000000000000A00000000#
+Line 3=#0000000000000000000046000000000000000000#
+Line 107=#0000000000000000000000000000000000000000#
+Line 99=#0000000000000000000000000000000000000000#
+Line 88=#0000000000000000000000000000000000000000#
+Line 77=#0000000000000000000000000000000000000000#
+Line 66=#0000000000000000000000000000000000000000#
+Line 55=#0000000000000000000000000000000000000000#
+Line 44=#0000000000000000000000000000000000000000#
+Line 33=#0000000000000000000000000000000000000000#
+Line 22=#0000000000000000000000000000000000000000#
+Line 11=#0000000A000000000000000A000000000000000A#
+Line 4=#0000000000000000000000000000000000000000#
+Line 108=#0000000000000000000000000000000000000000#
+Line 89=#0000000000000000000000000000000000000000#
+Line 78=#0000000000000000000000000000000000000000#
+Line 67=#0000000000000000000000000000000000000000#
+Line 56=#0000000000000000000000000000000000000000#
+Line 45=#0000000000000000000000000000000000000000#
+Line 34=#0000000000000000000000000000000000000000#
+Line 23=#0000000000000000000000000000000000000000#
+Line 12=#0000000000000000000000000000000000000000#
+Line 5=#0000000000000000000000000000000000000000#
+Line 109=#0000000000000000000000000000000000000000#
+Line 79=#0000000000000000000000000000000000000000#
+Line 68=#0000000000000000000000000000000000000000#
+Line 57=#0000000000000000000000000000000000000000#
+Line 46=#0000000000000000000000000000000000000000#
+Line 35=#0000000000000000000000000000000000000000#
+Line 24=#0000000000000000000000000000000000000000#
+Line 13=#0000000000000000000000000000000000000000#
+Line 6=#000006000000000000000000000000A500000088#
+Line 69=#0000000000000000000000000000000000000000#
+Line 58=#0000000000000000000000000000000000000000#
+Line 47=#0000000000000000000000000000000000000000#
+Line 36=#0000000000000000000000000000000000000000#
+Line 25=#0000000000000000000000000000000000000000#
+Line 14=#0000000000000000000000000000000000000000#
+Line 7=#0200002C01000000000000A801000000000000A8#
+Line 59=#0000000500000000000000000000000000000000#
+Line 48=#0000000000000000000000000000000000000000#
+Line 37=#0000000000000000000000000000000000000000#
+Line 26=#0000000000000000000000000000000000000000#
+Line 15=#0000000000000000000000000000000000000000#
+Line 8=#010000000000009201000000000000C201000000#
+Line 49=#0000000000000000000000000000000000000000#
+Line 38=#0000000000000000000000000000000000000000#
+Line 27=#0000000000000000000000000000000000000000#
+Line 16=#0000000000000000000000000000000000000000#
+Line 9=#0000000000000000000000000000000000000032#
+Line 39=#0000000000000000000000000000000000000000#
+Line 28=#0000000000000000000000000000000000000000#
+Line 17=#0000000000000000000000000000000000000000#
+Line 29=#0000000000000000000000000000000000000000#
+Line 18=#0000000000000000000000000000000000000000#
+Line 90=#0000000000000000000000000000000000000000#
+Line 19=#0000000000000000000000000000000000000000#
+Character Count=4678
+Line 110=#0000000000000000000000000000000000000000#
+Line 91=#0000000000000000000000000000000000000000#
+Line 80=#0000000000000000000000000000000000000000#
+Line 111=#0000000000000000000000000000000000000000#
+Line 100=#0000000000000000000000000000000000000000#
+Line 92=#0000000000000000000000000000000000000000#
+Line 81=#0000000000000000000000000000000000000000#
+Line 70=#0000000000000000000000000000000000000000#
+
+[ACQ PREFERENCES]
+FCS comment=XL 4 Color Default Protocol
+Protocol Comment=..\setup.def
+Event Buffer Size=1000
+Live Gate=Ungated
+Total Events Required=100000
+
+[InstrumentSetup]
+InstrumentType=Cytomics FC 500 - 4 Color
+InstrumentSerialNumber=AU40349
+
+[USER PREFERENCES]
+LMD AUTOSAVE=0
+LMD FILENAME=c:S45678.$$$
+STATISTICS LOG FILE=
+AUTO PRINT POST ACQ=0
+HISTOGRAM AUTOSAVE=0
+HISTOGRAM FILENAME=c:S45678.$$$
+ACQ FILE LOG=
+AUTO FLOWPAGE POST ACQ=0
+AUTOSTATS POST ACQ=0
+Dot Plot Color Mode=1
+
+[Color8 info]
+Line Count=7
+Line 1=#\$C0C\8421504\$C1C\255\$C2C\65280\$C3C\6#
+Line 2=#5535\$C4C\16711680\$C5C\16711935\$C6C\16#
+Line 3=#776960\$C7C\0\$C0N\Group:0\$C1N\Group:1\#
+Line 4=#$C2N\Group:2\$C3N\Group:3\$C4N\Group:4\$#
+Line 5=#C5N\Group:5\$C6N\Group:6\$C7N\Group:7\$C#
+Line 6=#0G\1\$C1G\2\$C2G\99\$C0P\3\$C1P\2\$C2P\1#
+Line 7=#\$C3P\0\#
+Character Count=248
+
+[BuildInformation]
+BuildCaption=CXP Cytometer (Build 3707)
+BuildTimestamp=Wed Dec 19 10:47:39 2007
+
+[Setup.c00]
+Line Count=31
+Line 30=#INST\ALBERT lab\$OP\albert\$CYT\Cytomics#
+Line 1=#\$P1N\FS Lin\$P1S\FS Lin\$P1R\1024\$P1B\#
+Line 31=# FC 500\$SMNO\00000098\$DATE\ \#
+Line 20=#3\$P5E\ 4.0,0.1024\@P5U\LOG Channels\@P5#
+Line 2=#16\$P1V\165\@P1GAIN\5.000000\$P1G\5.0000#
+Line 21=#C\GEOMETRIC\@P5Z\ON\@P5Q\FL3 Log\$P6N\FL#
+Line 10=#24\$P3B\16\$P3V\424\@P3GAIN\1.000000\$P3#
+Line 3=#00\@P1ADDRESS\6\$P1E\0,0\@P1X\ 0.0, 0.0\#
+Line 22=#4 Log\$P6S\FL4 Log\$P6R\1024\$P6B\16\$P6#
+Line 11=#G\1.000000\@P3ADDRESS\15\$P3E\ 4.0,0.102#
+Line 4=#@P1U\ \@P1C\ARITHMETIC\@P1Z\ON\@P1Q\FS L#
+Line 23=#V\450\@P6GAIN\1.000000\$P6G\1.000000\@P6#
+Line 12=#4\@P3U\LOG Channels\@P3C\GEOMETRIC\@P3Z\#
+Line 5=#in\$P2N\SS Lin\$P2S\SS Lin\$P2R\1024\$P2#
+Line 24=#ADDRESS\27\$P6E\ 4.0,0.1024\@P6U\ \@P6C\#
+Line 13=#ON\@P3Q\FL1 Log\$P4N\FL2 Log\$P4S\FL2 Lo#
+Line 6=#B\16\$P2V\648\@P2GAIN\20.000000\$P2G\20.#
+Line 25=#GEOMETRIC\@P6Z\ON\@P6Q\FL4 Log\$P7N\FL5 #
+Line 14=#g\$P4R\1024\$P4B\16\$P4V\424\@P4GAIN\1.0#
+Line 7=#000000\@P2ADDRESS\8\$P2E\0,0\@P2X\ 0.0, #
+Line 26=#Log\$P7S\FL5 Log\$P7R\1024\$P7B\16\$P7V\#
+Line 15=#00000\$P4G\1.000000\@P4ADDRESS\19\$P4E\ #
+Line 8=#0.0\@P2U\ \@P2C\ARITHMETIC\@P2Z\ON\@P2Q\#
+Line 27=#577\@P7GAIN\1.000000\$P7G\1.000000\@P7AD#
+Line 16=#4.0,0.1024\@P4U\LOGChannels\@P4C\GEOMETR#
+Line 9=#SS Lin\$P3N\FL1 Log\$P3S\FL1 Log\$P3R\10#
+Line 28=#DRESS\33\$P7E\ 4.0,0.1024\@P7U\ \@P7C\GE#
+Line 17=#IC\@P4Z\ON\@P4Q\FL2 Log\$P5N\FL3 Log\$P5#
+Line 29=#OMETRIC\@P7Z\ON\@P7Q\FL5 Log\$SYS\CXP \$#
+Line 18=#S\FL3 Log\$P5R\1024\$P5B\16\$P5V\402\@P5#
+Line 19=#GAIN\1.000000\$P5G\1.000000\@P5ADDRESS\2#
+Character Count=1231
+
+[File Section]
+NoofFiles=1
+
+[MultiCOMP]
+Comp6To5=0
+Comp6To6=0
+Comp5To6=0
+Comp4To6=0
+CompensationMode=1
+LASER2SHUTTER=1
+Comp3To6=0
+Comp2To6=0
+FL5Gain=10
+LASERPOWER=20
+Comp6To2=0
+Comp6To3=0
+FL5Volts=577
+Comp6To4=0
+
+[File Number : 1]
+Cal File=Setup.c00
+Parameters=7
+
+[Plot :1]
+ShowYLabels=1
+fFaceName=Arial
+UserDefinedStatsPaneHeight=1
+DotDisplayFactor=50
+Save As FCS=0
+UniqueID=64101184
+XLabelCaption=$STAIN
+X Parameter=2
+StatsPaneOpen=1
+AttrW=421
+ShowPlotTitle=1
+AttrX=376
+Plot Number=1
+PrcGateCount=0
+StatsColumnOrder=0,1,2,3,4,5
+AttrH=363
+AttrY=-4
+ShowPercentInRegion=0
+PlotResolution=256
+fHeight=10
+Plot Type=170
+FileName=0
+YLabelCaption=$STAIN
+StatsPaneHeight=120
+Show Regions=A,7,8,9,10,
+ShowYTicks=1
+fWeight=700
+Gate Number=1
+ShowXTicks=1
+fDeciPointSize=100
+StatsColumnSortPrecedence=0
+Use As Stop=0
+fStyle=0
+Stop Count=5000
+MaxMinStatus=0
+Y Parameter=3
+ShowXLabels=1
+fColor=0
+StatsColumnAttributes=Region·49·-1ЇNumber·56·-1Ї%Total·49·-1Ї%Gated·53·-1ЇX-Mean·54·-1ЇY-Mean·54·-1
+
+[Plots Section]
+NoofPlots=4
+
+[CYTOSTRING]
+Line 112=#0000000000000000000000000000000000000000#
+Line 101=#0000000000000000000000000000000000000000#
+Line 93=#0000000000000000000000000000000000000000#
+Line 82=#0000000000000000000000000000000000000000#
+Line 71=#0000000000000000000000850000000000000000#
+Line 60=#0000000000000000000000000000000000000000#
+Line 113=#0000000000000000000000000000000000000000#
+Line 102=#0000000000000000000000000000000000000000#
+Line 94=#0000000000000000000000000000000000000000#
+Line 83=#0000000000000000000000000000000000000000#
+Line 72=#00000000000000A4000000000000000000000000#
+Line 61=#0000000000000000000000000000000000000000#
+Line 50=#0000000000000000000000000000000000000000#
+Line 114=#0000000000000000000000000000000000000022#
+Line 103=#0000000000000000000000000000000000000000#
+Line 95=#0000000000000000000000000000000000000000#
+Line 84=#0000000000000000000000000000007700000000#
+Line 73=#0000000000000000000000000000000000000000#
+Line 62=#0000000000000000000000000000000000000000#
+Line 51=#0000000000000000000000000000000000000000#
+Line 40=#0000000000000000000000000000000000000000#
+Line Count=117
+Line 115=#010006080C000001E803E8030000000000000000#
+Line 104=#0000000000000000000000000000000000000000#
+Line 96=#0000000000000000000000000000000000000000#
+Line 85=#0000000000000000000000CB0000000000000000#
+Line 74=#0000000000000000000000000000000000000000#
+Line 63=#0000000000000000000000000000000000000000#
+Line 52=#0000000000000000000000000000000000000000#
+Line 41=#0000000000000000000000000000000000000000#
+Line 30=#0000000000000000000000000000000000000000#
+Line 1=#00000F03070006080F13171B2101010101010101#
+Line 116=#0000000000000000020000000000000000000000#
+Line 105=#0000000000000000000000000000000000000000#
+Line 97=#0000000000000000000000000000000000000026#
+Line 86=#0000000000000000000000000000000000000000#
+Line 75=#0000000000000000000000000000000000000000#
+Line 64=#0000000000000000000000000000000000000000#
+Line 53=#0000000000000000000000000000000000000000#
+Line 42=#0000000000000000000000000000000000000000#
+Line 31=#0000000000000000000000000000000000000000#
+Line 20=#0000000000000000000000000000000000000000#
+Line 2=#0101000000000000000000000000000000000000#
+Line 117=#00000000000000000000000000000000*1000*#
+Line 106=#0000000000000000000000000000000000000000#
+Line 98=#0200000000000000000000000000000000000000#
+Line 87=#0000000000000000000000000000000000000000#
+Line 76=#0000000000000000000000000000000000000000#
+Line 65=#0000000000000000000000000000000000000000#
+Line 54=#0000000000000000000000000000000000000000#
+Line 43=#0000000000000000000000000000000000000000#
+Line 32=#0000000000000000000000000000000000000000#
+Line 21=#0000000000000000000000000000000000000000#
+Line 10=#000000C80000000A000000000000000A00000000#
+Line 3=#0000000000000000000046000000000000000000#
+Line 107=#0000000000000000000000000000000000000000#
+Line 99=#0000000000000000000000000000000000000000#
+Line 88=#0000000000000000000000000000000000000000#
+Line 77=#0000000000000000000000000000000000000000#
+Line 66=#0000000000000000000000000000000000000000#
+Line 55=#0000000000000000000000000000000000000000#
+Line 44=#0000000000000000000000000000000000000000#
+Line 33=#0000000000000000000000000000000000000000#
+Line 22=#0000000000000000000000000000000000000000#
+Line 11=#0000000A000000000000000A000000000000000A#
+Line 4=#0000000000000000000000000000000000000000#
+Line 108=#0000000000000000000000000000000000000000#
+Line 89=#0000000000000000000000000000000000000000#
+Line 78=#0000000000000000000000000000000000000000#
+Line 67=#0000000000000000000000000000000000000000#
+Line 56=#0000000000000000000000000000000000000000#
+Line 45=#0000000000000000000000000000000000000000#
+Line 34=#0000000000000000000000000000000000000000#
+Line 23=#0000000000000000000000000000000000000000#
+Line 12=#0000000000000000000000000000000000000000#
+Line 5=#0000000000000000000000000000000000000000#
+Line 109=#0000000000000000000000000000000000000000#
+Line 79=#0000000000000000000000000000000000000000#
+Line 68=#0000000000000000000000000000000000000000#
+Line 57=#0000000000000000000000000000000000000000#
+Line 46=#0000000000000000000000000000000000000000#
+Line 35=#0000000000000000000000000000000000000000#
+Line 24=#0000000000000000000000000000000000000000#
+Line 13=#0000000000000000000000000000000000000000#
+Line 6=#000006000000000000000000000000A500000088#
+Line 69=#0000000000000000000000000000000000000000#
+Line 58=#0000000000000000000000000000000000000000#
+Line 47=#0000000000000000000000000000000000000000#
+Line 36=#0000000000000000000000000000000000000000#
+Line 25=#0000000000000000000000000000000000000000#
+Line 14=#0000000000000000000000000000000000000000#
+Line 7=#0200002C01000000000000A801000000000000A8#
+Line 59=#0000000500000000000000000000000000000000#
+Line 48=#0000000000000000000000000000000000000000#
+Line 37=#0000000000000000000000000000000000000000#
+Line 26=#0000000000000000000000000000000000000000#
+Line 15=#0000000000000000000000000000000000000000#
+Line 8=#010000000000009201000000000000C201000000#
+Line 49=#0000000000000000000000000000000000000000#
+Line 38=#0000000000000000000000000000000000000000#
+Line 27=#0000000000000000000000000000000000000000#
+Line 16=#0000000000000000000000000000000000000000#
+Line 9=#0000000000000000000000000000000000000032#
+Line 39=#0000000000000000000000000000000000000000#
+Line 28=#0000000000000000000000000000000000000000#
+Line 17=#0000000000000000000000000000000000000000#
+Line 29=#0000000000000000000000000000000000000000#
+Line 18=#0000000000000000000000000000000000000000#
+Line 90=#0000000000000000000000000000000000000000#
+Line 19=#0000000000000000000000000000000000000000#
+Character Count=4678
+Line 110=#0000000000000000000000000000000000000000#
+Line 91=#0000000000000000000000000000000000000000#
+Line 80=#0000000000000000000000000000000000000000#
+Line 111=#0000000000000000000000000000000000000000#
+Line 100=#0000000000000000000000000000000000000000#
+Line 92=#0000000000000000000000000000000000000000#
+Line 81=#0000000000000000000000000000000000000000#
+Line 70=#0000000000000000000000000000000000000000#
+FCS3.0       23738   24403      58   23737       0       0ая аяЂt Ќ Г	 ћ 7     ‰Ђ YЃЉ ‚k  ѓЏ  „§  …В  †   ‡ Ђ а3Е  +  0  Ѓ       Ђ*Ђ`WЃ2 ‚ ѓF „ …e  †   ‡ &  њк )  з  Ћ  5      —Ђа€ ЃY  ‚K  ѓ%  „|  …ї  †   ‡ ` `І= њ  L  Y  t      јЂАЃЧ  ‚?  ѓ{  „ґ  …™  †   ‡АХ @6I ­  Ч  р  E     аЏЂаjЃЕ ‚# ѓч  „ …3 †   ‡ая ая¤ ` У  ќ  ]     ,Ђ Ѓ3 ‚А ѓ, „Н  …M †   ‡ ь  
+        z  §     `юЂ@џ	ЃЎ ‚   ѓ   „  …t  †   ‡`Ђ  Э ¦  …  `  ї  -    аЂ "Ѓ   ‚.  ѓ   „Q  …@  †   ‡  Ђї       Њ  ¬         aЂ з Ѓ0 ‚№  ѓ"  „Ї  …Y  †   ‡ м  щ  H  џ           ЦЂ lЃU ‚  ѓМ  „ …K  †   ‡ Њ а€% •  9  у  d     @[Ђа{ Ѓ—  ‚  ѓ5  „#  …ь  †   ‡а  C  	     T  ”      шЂАМЃe ‚0 ѓb  „м  …>  †   ‡а Ђл; ґ  ^  µ  ©      wЂ`AЃс ‚ь  ѓ¤  „Б  …  †   ‡ая ая7  )     ѕ    ЂЂ Ї Ѓd  ‚:  ѓ5  „{  …]  †   ‡`  \{   ’  е        `uЂ  Ѓ* ‚У ѓ „Ф  …н  †   ‡ Љ  ’­ Ї  M  d        ?Ђ ]ЃИ ‚8 ѓз  „Л  …Ъ  †   ‡аg Ђ” I  ‡  o  џ  {     аиЂАlЃ, ‚‘  ѓ°  „Я  …?  †   ‡Ђ)  є|  Д   —     а€ЂАXЃ  ‚k  ѓ,  „Э  …Л  †   ‡  Ђ*И л  5  ё  ·     `BЂ §Ѓ< ‚Е  ѓ$  „№  …і  †   ‡ая ая ^ m c  ,1    @AЂ`ЃЕ ‚{  ѓ—  „э  …8  †   ‡А< Ђх Ў њ  }  з  n      Ђ –Ѓ& ‚  ѓ  „M  …T  †   ‡ “ Ђ0  т  и  ћ      {ЂалЃa ‚   ѓ  „K  …њ  †   ‡ая ая±  3 Щ л    аяЂаяЃV ‚‡ ѓ
+ „z …Б †   ‡ая аяГ b i y 1    аяЂаяЃй ‚Ј ѓS „э …э †   ‡ Щ аНl       V  |     ЂЂ yЃ
+ ‚м  ѓ.  „”  …Ђ  †   ‡аx сU L      °  б      фЂаЇЃ   ‚d  ѓ  „Ј  ……  †  ‡ Т Ђ~ џ  \    n  |    `Ђ`Ѓ ‚Ѓ  ѓЙ  „Ј  …•  †  ‡Ђѕ  @е “  =  т  †    А‡ЂаЃђ  ‚9  ѓL  „ќ  …Ъ  †  ‡   , л  ­     k    аяЂаяЃнC ‚› ѓя „+ …4, †  ‡Ђ ая№ u A  ь  $    ІЂ hЃи ‚› ѓ’ „А …ш  †  ‡ p @tш  ­  b   '   @Ђ eЃI
+ ‚T ѓ5 „ …”  †  ‡ @  рк P     <  X    аGЂ`т Ѓ ‚ь  ѓ_  „Й  …Y  †  ‡ и `E }  -  Ј  ѓ     оЂА(Ѓu ‚ ѓc „”  …ы  †  ‡@г аљ D       D  l     aЂ Ц Ѓ+  ‚t  ѓ  „У  …Ж  †  ‡Ђ©     O  J  Ѓ  „    АЄЂаЃ”Y ‚A ѓ­ „ь …‹  †  ‡@k  Д;   … i і    А‹Ђ ™Ѓe ‚(  ѓ   „N  …Ю  †  ‡ )  Ґ     >  <  ®     |Ђ@ц Ѓi ‚Ц  ѓГ  „Ѓ  …\ †  ‡ / `H   e  с       ЂbЂЂЎ Ѓ]  ‚   ѓ0  „‰  …µ  †  ‡ я а„  y  C  7  і     ХЂаяЃж ‚   ѓ$  „’  …Й  †  ‡ЂІ а±’  ў  e  ¬  у    ЂкЂ 9Ѓ   ‚   ѓV  „f  …5  †  ‡@  зв < ±  u Я     wЂ ¤ Ѓ   ‚   ѓ]  „d  …$ †  ‡ i  »« U Л  у  s     ёЂ HЃС ‚z  ѓ’  „љ  …O  †  ‡ая аяS Ж Э = 7   ЂКЂаяЃ¬ ‚Ђ ѓп „ч  …Њ †  ‡ая аязF  Я  П   аяЂаяЃm: ‚S ѓU „Н …с †  ‡Аp ар	L б e U y    ЂЈЂ`4Ѓu  ‚k  ѓ-  „K  …o  †  ‡ая ая< t ‰ -      }Ђ Ѓ ‚   ѓI  „h  …b  †  ‡ d А©  9  U  З  „     ЂА0Ѓћ ‚‰  ѓZ  „№  …­  †  ‡ ) ая# p    ќ  Й     рЂ tЃQ ‚‹  ѓ3  „Џ  …ћ  †  ‡ая аях  » Ь м	    GЂ я Ѓљ  ‚‘  ѓ  „‡  …Й  †  ‡Аa Ђt         N  X    ЂЄЂ@ ЃФ  ‚   ѓ+  „Б  …   †  ‡ X АЂA  =  ‰  ™       џЂаЃ| ‚1 ѓЯ  „D …ј  †  ‡`‰  ©9 ±     Ѓ  …    аяЂаяЃ ‚Y ѓњ  „ь  …м  †  ‡ B Б>        •  с     юЂЂМ Ѓє  ‚о  ѓk  „}  …A  †  ‡ЂІ  Щ_ !     І  ?   @µЂа
+Ѓџ  ‚«  ѓf  „©  …е  †  ‡ая аяа {  g `\ я)   `3ЂАЖ Ѓn  ‚Q  ѓK  „}  …Ђ  †  ‡`v  e)     "  '  k    ЂќЂ ] Ѓ  ‚  ѓ  „6  …M  †  ‡`f  ѓ      =  ™  Е    @юЂа…Ѓ= ‚  ѓ  „“  …	  †  ‡а2  U	ь  (  5  ћ  J     HЂ НЃ   ‚   ѓ'  „¬  …s  †  ‡а
+  Ю@ е  <  /      ЂЎЂeQ Ѓ4  ‚  ѓ+  „y  …ї  †  ‡АA  ™Ё ъ  ђ  Ь  P     ЂЂMЃ: ‚   ѓ8  „ў  …q †  ‡ ­ @З      O  D  е    АmЂ 1Ѓщ ‚W ѓР „v … †  ‡аИ `D; ч  Ю   [     ЖЂ ,Ѓ¶ ‚б  ѓй  „‘  …  †  ‡`· Ау       =  e  6     ЂАЃp ‚|  ѓe  „•  …	  †  ‡Ђu  Ё a  њ  -  Ї  Y    АсЂЂЃ! ‚  ѓ   „`  …ч  †  ‡ал а^с  
+ ї  A Ф    `›ЂА	ЃБ ‚ ѓС  „Ў  …  †  ‡`7 А±  …    ё  ;    А„ЂаяЃ ‚ч  ѓ|  „Ц  …( †  ‡ Л ая   @    h  с    Ђ6Ђ Й Ѓј  ‚W  ѓ  „±  …   †  ‡` аВ  §  ђ  Ќ  Л    Ђ¦ЂЂ°Ѓ= ‚‡  ѓ   „P  …™  †  ‡А `3 …  В  u  Њ    аѓЂ ИЃ" ‚э  ѓc  „€  …  †  ‡ B  pБ       ‡  L     DЂАµЃЂ ‚w ѓ „џ … †  ‡ K  ®Ќ Ґ    I  а     ЋЂА:Ѓњ ‚Ї  ѓ€  „ …N  †  ‡а¦  ®Щ      d  •     VЂажЃ} ‚t  ѓС  „с  …µ  †  ‡ая аяd ¬  4 Ы   аяЂаяЃ™
+ ‚> ѓz  „Ь  …	 †  ‡Ђ5 аяО ! с  a Н    Ђ  Ѓ ‚ѓ  ѓn  „y  …Џ  †  ‡АЉ а!Њ Н  S  «  В    аяЂаяЃ­ ‚f ѓб „ѓ …ь †  ‡А, ЂД 9       ј       @ђЂА$ЃL ‚я  ѓ-  „¶  …]  †  ‡ С а        Ў  5     ‘Ђ Ѓ4  ‚@  ѓ  „n  …'  †  ‡А§  Е  А  ‡  µ      @нЂЂkЃН ‚Я ѓЈ „Щ …д  †  ‡`» @І      X  v  `     	ЂаяЃ ‚Я  ѓ  „j  …д  †  ‡Ђ ая‡ 6  m    ‹    аяЂаяЃ3 ‚P ѓ) „Я  …l †  ‡ ' @¦П    Ц  ф  '   `ТЂ §Ѓ ‚Н  ѓй  „Ј  …¤  †  ‡ —	 ая 0 .  ч   `=Ђ`)Ѓ€ ‚P ѓb „I …Ё  †  ‡ 8  3р  d  і  ќ  M    аяЂаяЃЉ ‚њ  ѓЊ  „ґ  …±  †  ‡ х  »о 9 9  М  w     dЂ SЃD ‚ы  ѓТ  „б  …м  †  ‡ая  C8 M §  @  о    Ђ:ЂаўЃ•  ‚   ѓ   „o  …џ  †  ‡`* Ђ®    :  i  _       HЂАщ ЃQ ‚Ѕ  ѓ4  „s  …S  †  ‡аu  ё  н  t  Х  в     “ЂаoЃЩ ‚Я  ѓў  „Х  …џ  †  ‡@s  ‘k T  \  ‡  ]   А“ЂЂШ Ѓ” ‚А  ѓИ  „и  …ѕ  †  ‡ая ая9 µ c  Ь  Y   аяЂаяЃ ‚8 ѓd „¤ …y †  ‡аf  ‰                ;ЂАЩ Ѓm  ‚  ѓ  „D  …€  †  ‡@¬ Ђ7   F     *  5     9Ђ Ґ Ѓ   ‚  ѓA  „h  …   †  ‡а  Z      ;  D  -    `0Ђ \ Ѓ   ‚|  ѓ}  „j  …‰  †  ‡а< ЂТ· с  µ  И  л    @yЂ ”ЃА ‚:  ѓ#  „W  …  †  ‡ $  ц ј Ж  ™  ш  Е     =Ђ т Ѓ•  ‚…  ѓ  „…  …l  †  ‡ # Ђн  ·  Ј  у  "   АkЂ †Ѓр ‚ ѓЬ  „е  …   †  ‡ая ая—% ™ щ Й †   аяЂаяЃ‹ ‚\ ѓ  „љ  …y †  ‡ая ая Ц ч  њ  б   ЂWЂ kЃA ‚5 ѓµ „ …€ †  ‡Ђx ЂЩ— o     Н  ж    АsЂЂСЃ„ ‚Р  ѓ	 „И  …  †  ‡ ї ап Н  g  ж  М     rЂ ѕЃџ ‚, ѓЁ  „©  …N  †  ‡ав Ђе    я  N   аяЂаяЃе ‚`  ѓ•  „б  …Є †  ‡ап  S€ ъ  „  Ж       аяЂаяЃ\b ‚Д ѓЯ „m …P †  ‡ D  єЬ @  4  Ы  ”     дЂ .ЃS ‚E  ѓ   „U  …Х  †  ‡ая аяФ7 1  ° О   А.Ђ и Ѓ ‚…  ѓЎ  „¶  …и  †  ‡а  А      ]  [    Ђ¶ЂаVЃ~ ‚ј  ѓ2  „%  …±  †  ‡ А  њ + ђ  5 ™     oЂ ЦЃи ‚ ѓD „m …Щ  †  ‡ э  н<  T  Ъ  i    @АЂ Т Ѓ   ‚   ѓI  „#  …   †  ‡Ђщ  1 ©  Y  с  5     OЂ UЃq  ‚O  ѓ  „Ш  …ё  †  ‡Ђђ  ЩM M     /       аяЂаяЃ€3 ‚d	 ѓ| „0 … †  ‡`  M “  '  Е  Л    аяЂаяЃ<1 ‚= ѓM „6 …Н †  ‡ая аяЇ ' g Р 6   аяЂаяЃў ‚О  ѓ\  „L  …† †  ‡`R  ¬а Н  Ќ    p    ЂМЂа	Ѓ ‚—  ѓ  „љ  …d  †  ‡  а!D    6  7  $     шЂаwЃ7 ‚я  ѓ›  „І  …Е  †  ‡@Љ аФ         e  ј    аYЂ л Ѓђ ‚¤  ѓ“  „ѓ  …џ  †  ‡ 4  Ђ" ¦  '  u  a    аяЂаяЃ ‚a ѓ „ф …б †  ‡ая аяx ( = a  E   аяЂаяЃе ‚ѓ ѓИ „s …, †  ‡      Ј  J  »        їЂ ±Ѓn ‚P  ѓ~  „™  …У  †  ‡`  Ыl      )  К    ЂвЂ`Ѓ3 ‚· ѓи „Ѕ …E  †  ‡Ац ЂЂ Ї  Њ  Щ      @ЅЂ@zЃЕ ‚9 ѓХ „” …O  †  ‡ F  Аќ         ‹    аяЂаяЃ3 ‚± ѓ‡ „W …з †  ‡ая ая
+& у i @ у	   @ЂаяЃѓ/ ‚8 ѓШ „Ч …Р †  ‡@=  ц Њ №  x  °  g    ЂУЂа”
+ЃT ‚   ѓ   „  …D  †  ‡  а0 _   M @    аћЂ 0Ѓу ‚§  ѓw  „ђ  …k  †  ‡Ђ› Ђш W  L  _  В    @7Ђ ЭЃW  ‚   ѓ   „ђ  …O  †  ‡АЗ @яb  9 G ќ    `¶ЂЂ.ЃT ‚   ѓ:  „   …Њ  †  ‡АЕ  › ]  e  С  e     ‘Ђ@« Ѓg  ‚>  ѓ   „•  …Ё  †  ‡ :  йч Љ   щ  }    аяЂаяЃ | ‚Д ѓ— „™	 …: †  ‡аq   ( © З ™ з   Ђ]Ђ гЃЏ ‚П  ѓҐ „з …o †  ‡ая ая … { } €	 с3   аяЂаяЃ Љ ‚њ ѓЎ	 „ …/ †  ‡ая ая1  Н  '    ЂЦЂ LЃR  ‚П  ѓ¤  „Н  …& †  ‡АО  +	‡  ' Ў Х   АшЂаяЃп ‚9 ѓA  „¬  …| †  ‡ *  К Л    Ќ  †  «     ;Ђ sЃ, ‚Ў  ѓY  „  …·  †  ‡аП ая@' і i ј      `Ђ`Ѓ-  ‚   ѓ  „d  …ё  †  ‡ЂЛ `c   3     (  ‹    алЂАs Ѓ  ‚   ѓ   „Q  …]  †  ‡Ђy `$ћ Э  ”  $ ђ     ЙЂЂ8	Ѓf ‚ј  ѓ  „0  …b  †  ‡ И  9Ѓ Я  D  µ      ЂшЂАЎЃE ‚Й  ѓ§  „ …y  †  ‡аб ач  µ   г    аяЂАЋЃp ‚q ѓg  „Щ  …Г †  ‡ая аяХ э 	 a ‰	   аяЂаяЃШ ‚д ѓv „Э  …7 †  ‡ая ая/  е   Ѕ    ЂЂeЃn ‚а  ѓt  „е  …v  †  ‡Ђ ЂЎЃ {  e  ”  `    АA
+ЂаяЃq ‚·  ѓ   „F  … †  ‡ A Ђ;h P  …  ­      @,Ђ`зЃI ‚R ѓt „ґ …©  †  ‡аl АН         њ       Ђ;ЂАЗЃЊ ‚ј  ѓ „ …Ђ  †  ‡Ђl а   f  „  W  T    Ђ@ЂЂМЃЖ ‚Ў  ѓz  „і  …2 †  ‡   P 	        b  G    ЂзЂа/Ѓ« ‚ ѓ¬  „ …”  †  ‡Ђ4  · 5 ›  ќ   v     щЂаg	Ѓ# ‚   ѓ   „A  …L  †  ‡ w  A      =  ђ  h     ¦Ђ 
+Ѓ ‚8 ѓЏ  „Њ  …e  †  ‡аa `8	 i  І  ђ      `eЂ`—Ѓe ‚с  ѓХ  „н  …c  †  ‡Ђ% @$5 п  ”  ; N    `°Ђ ЃA ‚@ ѓЗ  „8 …ў  †  ‡`&  eF Њ  Н  Р  i     pЂ (Ѓ  ‚d  ѓ3  „)  …z  †  ‡Ђ аъ       u  $    `"Ђ (Ѓ9 ‚o  ѓ@  „f  …“  †  ‡ Ё а±B н  ы  k А     ЇЂ`@ЃБ  ‚  ѓ   „’  …ђ  †  ‡аY  4{  )  ѓ  w  |     џЂЂЃ, ‚Ў  ѓЏ  „g  …Њ  †  ‡ u  gY х  U  ·  д     pЂ Ѓг ‚м  ѓ`  „Н  …|  †  ‡ / А< / ъ  ы  W     ЂаЃ ЃZ  ‚0  ѓ   „A  …<  †  ‡ЂE а { … = Ў    `gЂ k ЃG  ‚  ѓK  „ѓ  …  †  ‡ х   ґ  b     ‘  Ј     ‘ЂаЃ ‚ ѓј  „У  …i  †  ‡`е @PД Y B  Л  N    Ђ°Ђ ЃЩ ‚Ў  ѓ­  „‡  …Ќ  †  ‡аD  І Ђ  ђ    ]      АЂ`· Ѓ  ‚™  ѓ-  „Њ  …}  †  ‡ & њd ‰  }  1  ¤  a     “Ђ aЃ ‚•  ѓg  „z  …=  †  ‡ ь АИ[ u C ы  D    а”Ђ`r Ѓ  ‚h  ѓ,  „®  …$  †  ‡ЂЌ ЂSг  z  e  ѕ      6ЂaQ Ѓ$  ‚H  ѓ/  „  …б  †  ‡`g  ч© щ  й  «  '     -ЂЂq Ѓ  ‚/  ѓ  „n  …Q  †  ‡ „  2± э  Ѕ  ­        ЬЂ@-ЃЅ ‚G ѓЙ  „ …	  †  ‡аi   g  '  :  њ  q     ЮЂаЇЃ_ ‚й  ѓk  „Є  …*  †  ‡ p ЂЇ      :  Б  ~     ЮЂ xЃЗ ‚б  ѓА  „Ь  …­  †  ‡ т `№a я  ©  я  Л     ГЂ`ф Ѓ	  ‚=  ѓ  „  …ќ  †  ‡Ђя  ­й       R  Q    аяЂаяЃж, ‚Ў ѓф „Й …·
+ †  ‡ая ая @ ( X  g   аяЂаяЃЦ ‚й ѓш „ …X †  ‡ Њ АЧн Т  U  a  (   аяЂаяЃP ‚џ ѓж „ …° †  ‡   0Ё % $ ц  <    OЂаяЃ»  ‚Q  ѓ]  „ф  …e  †  ‡ая аяаД Ь c  @N   `ёЂфf Ѓ  ‚†  ѓ  „~  …Њ  †  ‡а·	 аян	  @ Ф  ‰    ЂаяЃЩ ‚   ѓ0  „ђ  …Ш  †  ‡ х а±    %  ‘  х     %Ђа•Ѓ ‚Ѕ  ѓЁ  „Ы  …Щ  †  ‡  `ВЏ  C  L  ’  °     HЂаяЃQ ‚н  ѓ   „^  …W  †  ‡ d  ЃL И  Q  ¬  »    `ѕЂ дЃu ‚U  ѓ\  „Ѓ  …b  †  ‡Ђћ  O~ ¦     ‰  Л    а ЂАUЃ ‚Е  ѓ}  „  …«  †  ‡ t  +  [  ў  ј        ’Ђ`1Ѓf  ‚S  ѓh  „ …I  †  ‡`3  т(       f  2     ‚Ђ rЃП ‚Њ  ѓі  „…  …w  †  ‡ЂJ  ђ[        z        yЂ — Ѓ0  ‚   ѓ%  „M  …8  †  ‡аб А;в  -    ©  ґ    @Ђ DЃХ ‚ ѓµ  „х  …µ  †  ‡ (  Y = №  5 *    @УЂа+Ѓr  ‚   ѓ{  „s  …¦  †  ‡ Ѓ аt]    A  m     `6Ђ bЃ  ‚  ѓ&  „®  …C  †  ‡@  cЏ       Y       ЂвЂ GЃ4 ‚v ѓж „q …L  †  ‡а‡ ­W 4  ј  A  ћ  “     #ЂЂЇЃє ‚“ ѓъ  „н  …g  †  ‡ 0  ­ Ґ  5  —     ј    аЩЂ о Ѓ—  ‚п  ѓN  „|  …[  †  ‡ a  пс ?  9 і    ЂыЂ €Ѓ, ‚ ѓE  „Т  …У  †  ‡Аф аЈ  €  6 ;     Ђ ЃЃО ‚ћ ѓd „‡ …6  †  ‡а  J     [  Ў       yЂаЇЃ! ‚ ѓt  „Л  …M  †  ‡а° АМ¬ - Ќ   Ѕ     ‹ЂЂkЃН ‚ ѓН  „P …+  †  ‡Ђd аЈµ  љ     љ  Ѕ    Ђ2Ђ@јЃx ‚q  ѓђ  „У  …  †  ‡ … `s* d  [  ¬  S     3Ђ Ѓ’ ‚З  ѓs  „ь  …њ  †  ‡Аь Ђвў Щ  Џ  ‰  „     БЂЂЃ  ‚   ѓ  „Y  …Џ  †  ‡ЂЧ  ·Њ &     Ў  ‰     щЂаяЃL ‚х ѓЎ „П …с †  ‡ #  KЬ  ?     |  e    аwЂЂЃm ‚L ѓ·  „I …™  †  ‡  Ђ*з  {  2  ‰       yЂАeЃ· ‚— ѓ= „ …±  †  ‡ ‡  ЪЅ с  ¦  Х  ”    аЂАЃ ‚m  ѓP  „1  …W  †  ‡`х `/P        U      @вЂаяЃ ‚Л  ѓE „ …Я  †  ‡а Аг E    O  Б  b    `vЂ`\Ѓ7  ‚   ѓ   „Ї  …a  †  ‡аџ Ак  Й    ‘   ЂІЂ KЃ# ‚Х  ѓV  „ћ  …	  †  ‡аW @Р" m  h  }  	   `Ђ .Ѓ ‚$ ѓ0 „	 …‡  †  ‡Ђ+ @Тt љ й 4     °Ђ ІЃ ‚! ѓЗ  „н  …’  †  ‡ " `о9    ]  |  і    `ЮЂЂ)Ѓ5 ‚й ѓ„ „ …О  †  ‡ W   Ў Њ  E  ґ  і    ЂЂ ®Ѓ‘ ‚ї  ѓ”  „я  …§  †  ‡`w  s      =  ‰  ‘    ЂдЂЂоЃ ‚  ѓ  „E  …   †  ‡а2  ў ґ  Ѓ  ќ      .Ђ`ч Ѓg ‚ф  ѓ   „’  …·  †  ‡ 8 @» W з  9  Р  :     Ћ	Ђ JЃ ‚  ѓм „Ў …o  †  ‡ &  e- ч  щ  $ »     xЂ@H	ЃХ ‚ј ѓ* „у …б †  ‡аЌ  v…    j  Ї  Њ    а$ЂАн Ѓ  ‚?  ѓ   „a  …$  †  ‡ т Ђ@Е g  e  Є  Ј    аЪЂЂqЃ1 ‚ ѓН  „! …m  †  ‡Ђб аФo Ј ; ў W     ¦Ђ`‡	Ѓџ ‚k ѓT „y …ь  †  ‡ Б  Ф    L  "  i  ,     гЂаgЃa  ‚   ѓ@  „m  …Y  †  ‡а^ `Йщ у  С  б  д     8ЂЂы Ѓ' ‚‚  ѓњ  „Э  …$ †  ‡@ы аj 0  %    —       ЛЂ ъЃљ ‚{ ѓэ  „ …'  †  ‡`3  | Њ   Э  ќ    ЂКЂ ­Ѓ   ‚  ѓ;  „Ш  …И  †  ‡`h  ІЇ Ш    ‰  D    `@Ђ :Ѓ9  ‚!  ѓ  „9  …Я  †  ‡ О  ЅЅ   и   ±    А1ЂЂЃо ‚­ ѓП  „a …Ы  †  ‡` Ђ.Й | ј  ! g    Ђ	ЂЂўЃ  ‚   ѓ   „d  …a  †  ‡ 9 Ђь ¬  m  П  t    аяЂаяЃ` ‚Ш ѓ „' …ь †  ‡ая аяhP B q ‘ ш   А(Ђ HЃР ‚h ѓ „> …7 †  ‡ Є @ Ќ U  й  ±  Ч    ЂoЂЂоЃй ‚€  ѓ‡  „і  …e  †  ‡ r  ђ. " С  р  Ў     /Ђ@№ЃВ ‚. ѓі  „т  …"  †  ‡  `nх ’  э  ™  °    А‘Ђ |Ѓ ‚Щ ѓе  „c … †  ‡   ­ т  !    Д  L    @7ЂЂg Ѓ=  ‚   ѓ  „h  …B  †  ‡ЂБ аяЦ   Њ Ј     XЂАбЃу ‚~ ѓС  „ …Ў  †  ‡аЊ `Ќ  L  +  ћ  O    а9Ђ lЃЌ ‚m ѓQ „… …ы  †  ‡ е  Vя Ј  ї  с       ЂрЂа¬ЃЕ ‚w ѓ% „і …ь  †  ‡Ђф `!      Г  a    ЂчЂ Ѓ.  ‚  ѓ   „©  …В  †  ‡ая аяј ь  )  ] ђ   `pЂ qЃП ‚¶  ѓ«  „Ѓ  …Й  †  ‡ t @Xe ‹  Е  Г  ї    АaЂ SЃ   ‚   ѓE  „‘  …<  †  ‡@K	  , П  }  ‹  A   аяЂаяЃ« ‚­  ѓo  „ї  …њ †  ‡`g  А Ю \    Й   аяЂаяЃЖ
+ ‚Ь ѓ\ „ … †  ‡ ї Ђл          ;  §     LЂ 5Ѓб  ‚   ѓ$  „g  …A  †  ‡Аw  ” i    Џ  ‹    `ЧЂ "Ѓ^ ‚ ѓ®  „! …ч  †  ‡ая аяЭ ђ  9  Ќ  я    аяЂаяЃS ‚t ѓ	 „a …ъ †  ‡`!  PБ  \     Ґ      дЂаkЃi ‚,  ѓ§  „‡  …Й †  ‡ д акm   Z  i  ж    аяЂаяЃ®" ‚z ѓf „· …µ †  ‡ая аяб  . Ь ќ b    ‡Ђ@\ЃЋ ‚  ѓ3  „«  …‘  †  ‡ая ая С Д   х   А†Ђ •Ѓи  ‚V  ѓ  „I  …0  †  ‡`  Љб Я          Ђ<Ђ`Ѓu  ‚   ѓ  „_  …Ѓ  †  ‡А« `ЗC >  W  T  d    `CЂа Ѓo ‚п ѓ „µ …¤  †  ‡ §  ПЎ \  №   …    `‚Ђ 2Ѓ ‚Б  ѓР  „Щ  …~  †  ‡ 5  <љ ­  ћ  •  A     EЂаЃ= ‚d  ѓo  „|  …  †  ‡Аz  К    #  •  	   аяЂаяЃt ‚ ѓх „Ю …| †  ‡ая аяЩ H “ ќ «   аяЂаяЃќ ‚я ѓ‰ „Ч …F †  ‡ 8 @“А % Ј  o Т     x	ЂаяЃ ‚e  ѓи  „ …Q †  ‡ая аяё к w  Ў   аяЂаяЃ ‚  ѓ#  „  …A †  ‡`€  ©О
+ ц Л ™ }   `jЂА”Ѓ   ‚   ѓ  „ж  …Й †  ‡ая аяЂ± # Ѓ I Д3   аяЂаяЃаl ‚Ё ѓЊ	 „” …л †  ‡ая Ђя U     Ѓ  „    “ЂаћЃП ‚  ѓd  „«  …ї  †  ‡ ¶ аяс - q  u      чЂЂю	Ѓ] ‚   ѓ   „Y  …Џ  †  ‡Аў  ёЎ        u    А=Ђ ™ЃL ‚ ѓЭ  „	 …w  †  ‡ . @ы %    L  њ  Z     pЂ 8Ѓ   ‚   ѓ  „D  …y  †  ‡ #  ’    #  C    &     LЂаMЃ ‚’  ѓї  „Q …И  †  ‡ № А65        љ       @MЂ`fЃ ‚	 ѓЩ  „я  …±  †  ‡`c  Щ Ш  V  &  Ѓ  ­     /ЂЂTЃK ‚A ѓд  „• …Ђ  †  ‡ X  €Ћ M щ   {     ЦЂ СЃ& ‚©  ѓ5  „O  …ч  †	  ‡ Т АЋ$ ‰    •  ‚  	  аяЂаяЃµ ‚= ѓE  „g  …e †	  ‡Аъ  ю
+Y       4  к  	  @]ЂА(Ѓ   ‚  ѓ   „	 … †	  ‡@  Ђ  З  Я  ®  Ѓ  	   {Ђ ” Ѓ   ‚   ѓ)  „x  …Ќ  †	  ‡ ­  H  8  6  y  Ф  	  @мЂаЃ'  ‚@  ѓ$  „Є  …B  †	  ‡АМ Ђ™%  o     ]  ¬  	   Ђ ‡ЃS ‚t  ѓb  „З  …  †	  ‡ ”  G  T     ‰    	  аvЂ Ѓ ‚-  ѓ?  „‘  … †	  ‡ Ц  9± ё K = d  	  аљЂ у Ѓ#  ‚G  ѓD  „  …±  †	  ‡  `E     _  ©  L  	   Ђ`MЃz ‚ь  ѓ  „ґ  …М  †	  ‡ам  Ы н  ‘  °  a  h  	  @^Ђ щЃ= ‚=  ѓo  „±  …њ  †	  ‡`б  њ• . Ч  х  х  	   тЂ 2ЃT ‚U  ѓJ  „†  …! †	  ‡@я ND      G  C     	   ©Ђ /ЃЯ ‚ї  ѓ’  „Ы  …_  †	  ‡ ` ЂГ Ґ     2  W    	  `:Ђ :Ѓ• ‚;  ѓ­  „Ч  …z  †	  ‡@ъ  [4 %  ѓ  ™  t  	  `:ЂЂЛ Ѓ   ‚  ѓ
+  „§  …Б  †	  ‡а Ђ-Р l  ­  X ”  	   “ЂЂЮ Ѓг  ‚Y  ѓV  „~  …©  †	  ‡@й  ЃВ ф    є   	   &Ђ Щ ЃT  ‚   ѓ+  „я  …   †	  ‡Ђ  „• ц ‹    	  а!ЂАЃИ ‚   ѓ   „$  …   †	  ‡ ! Аґ. Ы  в  ј  Д  	  ЂЗЂ ‘ЃI ‚Щ  ѓ_  „с  …g  †	  ‡АW  ж P  $  ґ  х  Ю  	  А\Ђ —ЃЧ ‚Й  ѓэ  „} …¤  †	  ‡Ђ  Ц ф  Т    Э  Ш  	  @KЂ аЃж ‚С  ѓm  „K …:  †	  ‡ №  TЄ ы  Щ  Ф  Q  	   „ЂаяЃп ‚"  ѓ'  „T  …3 †	  ‡ —  к Э  Ђ  ‘  ѓ  •  	  А†Ђ`ОЃQ  ‚  ѓ   „/  …$  †	  ‡аL @¦  А  ©  њ  _  	   qЂЂЃЃh ‚n  ѓ)  „5  …  †	  ‡@Џ аѕ u  [    z  ”  	  `]Ђ т Ѓ ‚[ ѓ „њ …ї †	  ‡ *  ·   E    x  •  	  аїЂ \ЃJ  ‚   ѓ   „ќ  …®  †	  ‡@P  v          E  Ќ  
+  Ђ,Ђ ЃY ‚G ѓO „і  …и  †
+  ‡ Ш `%ѓ µ  7  Н  ј 
+  @°	Ђ  Ѓm ‚b ѓ „д  …а  †
+  ‡Ај @…     9  z     
+   ,Ђ ЃО ‚% ѓ	 „b …8  †
+  ‡а  Ш “ №  ”  л  F  
+   Ђ пЃ) ‚©  ѓ9  „Х  …u  †
+  ‡` аDБ ц  ¤  К  P  
+  `рЂ Ѓg ‚О  ѓf  „Ћ  …Ў  †
+  ‡`! АУ  m  8  Е  Ђ  
+   Ђ Ѓ% ‚  ѓu  „q  …X  †
+  ‡ађ Ђј¤ V    w  q  
+  АлЂ`мЃS ‚П  ѓЃ  „ …®  †
+  ‡ЂQ
+  8	© e Я   и  
+  акЂ №Ѓ¬ ‚Ж  ѓ­  „®  …:  †
+  ‡   ає‡	 µ !    
+  `сЂ`zЃћ ‚l  ѓ  „™  …  †
+  ‡@7  у  a         
+  аWЂЂЃ  ‚I  ѓЈ  „њ  …I  †
+  ‡Ђ{  Ѓ е  Ч  §  џ  
+   љЂа„Ѓ   ‚   ѓ  „  …c  †
+  ‡Аy АJш  a  j  Х  _  
+   iЂаK Ѓ   ‚	  ѓ7  „W  …о  †
+  ‡ ‹  †Q '  h  Г  і  
+  аяЂаЇ Ѓ   ‚   ѓ   „T  …X †
+  ‡а  Б \  D    z     
+   ЂЂ@ЃЕ  ‚€  ѓ[  „ќ  …њ  †
+  ‡`w @л Ф n  d  «  ™  
+  `ьЂ е Ѓh  ‚~  ѓЃ  „W  …N  †
+  ‡@в @‡ |  U    u  6  
+  АЂЂZ Ѓ  ‚I  ѓ…  „Ї  …†  †
+  ‡ П А,   i  {  e  
+   yЂ@Ѓ Ѓ   ‚,  ѓ?  „•  …o  †
+  ‡`I `э "  ‡  ,  Ѕ  ч  
+  `iЂЂй Ѓ  ‚&  ѓB  „^  …M  †
+  ‡ Ф  Дђ  9      љ  
+  ащЂЂњЃ¬ ‚— ѓ« „у …&  †
+  ‡ Ш  Iе  \  №  ‡  I  
+   €Ђ !Ѓн ‚я  ѓЮ  „( …g  †
+  ‡ U  д )     #    Ќ  
+   гЂ  Ѓ€ ‚   ѓ   „  …;  †
+  ‡@”  I6 Э  „  а  d  
+  аяЂаяЃX ‚‘ ѓ „T …с †  ‡Ђ< Ђ(         :  #     MЂ Р Ѓ ‚i  ѓl  „Э  …Е  †  ‡ая аяЯ в Ђ  J  А   атЂ 'Ѓ ‚  ѓ’  „ћ  …Q †  ‡ая ая`‰ }$ Ш  Н   аяЂаяЃЂt ‚5 ѓ” „l …°& †  ‡ і `(x a ¤  р  щ    аяЂаяЃ©	 ‚« ѓґ  „ …Я  †  ‡ая ая]) « 2  ѕ   аяЂаяЃ" ‚Ј ѓ‡ „ …С †  ‡ая аяk	 Х    е      щЂ aЃЃ ‚ ѓ¶ „Њ …Е †  ‡ J  =а А  ё  G ]   ЂFЂА® ЃL  ‚H  ѓp  „‘  …™  †  ‡`Y  DA ¶     Ґ  «    `ўЂаcЃ© ‚3  ѓ  „{  …   †  ‡а& АЁ c  Й      жЂ јЃЫ  ‚  ѓ  „P  …т  †  ‡  А?       K  c    ЂђЂ ГЃc  ‚L  ѓ-  „ґ  …Q  †  ‡аo ЂьЧ
+ Q q  -  Ќ    аяЂаяЃ ‰ ‚Л ѓХ „в
+ …¶< †  ‡`Щ аяП ™ Ј  Ь  В   `OЂ ‚
+Ѓс ‚   ѓe  „є  …Ы  †  ‡ая аяЫ1  К Ј €	   аяЂаяЃђ ‚ ѓ,  „ …Х  †  ‡ г ая) ®   ‘  р    ‹
+ЂаяЃ4
+ ‚ ѓ „   …2 †  ‡ая аяN( ‡ б u э   аяЂаяЃ
+ ‚ ѓн  „( …Q †  ‡а{ @ * И  U Ў   аяЂаяЃ@T ‚t ѓ, „ …P †  ‡а ая = Џ Ч  б    аяЂаяЃt ‚T ѓ „а  …Ґ †  ‡ая ая™  } ќ &   аяЂаяЃT ‚§ ѓБ  „W …џ †  ‡ая ая ± Ы Ѓ ™   ЂзЂ РЃ† ‚ ѓw  „Щ  …м  †  ‡а}  ч џ  Й  н  q    а¦ЂА}	Ѓu ‚С  ѓ?  „I  …0  †  ‡@& а        •       ©Ђ ,Ѓэ ‚Н  ѓФ  „ћ  …Р  †  ‡а! аі њ       ђ  Ґ    ЂщЂаяЃI ‚u  ѓ   „m  …Я  †  ‡а0  Ј ґ  <    W  T     –Ђ ЃЯ ‚с  ѓџ  „з  …   †  ‡а` аЊ Й  q  ї  щ    а3Ђ`OЃ) ‚@ ѓо „Ў …}  †  ‡аM ` q  ¤  њ  t    @0ЂаяЃ ‚   ѓ™  „щ  …Њ †  ‡@Є  Ц      m  Ш     ?ЂЂ°Ѓо ‚›  ѓј  „‰  …l  †  ‡ао аGЂ     q       Ђ–Ђ Ѓ  ‚   ѓA  „  ……  †  ‡ Ј  С 4    p  ё  Ё     xЂаЌЃЭ  ‚Z  ѓ\  „Ў  …S  †  ‡Ђт  Л9 & ‘  х  Ѓ     ЗЂ [Ѓv ‚; ѓ• „« …С  †  ‡АҐ а         v  !      Ђ@ѕЃџ ‚_ ѓ„ „. …­  †  ‡Ђv  J‹ љ    З  k    аЂ ™ЃF ‚L  ѓИ  „±  …E  †  ‡ Ш  њa Щ  µ  ™  ќ    @ЧЂЂNЃ* ‚Y ѓН  „№  …?  †  ‡ a `my я  °  d ѓ   Ђ	Ђ EЃ{ ‚— ѓ „_ …~  †  ‡`x Ђ| х   з  ]    А+Ђ@еЃK ‚ъ ѓy „4 …Г  †  ‡Ђ}  n€ М  Ы  Ш  °    @,Ђ RЃь ‚D ѓЕ  „ …С  †  ‡ Ў  dv ‹    л       vЂ AЃI ‚   ѓ+  „X  ….  †  ‡ $ Ь`      (  А  Џ    @$ЂЂo
+ЃЎ ‚В  ѓ-  „№  …<  †  ‡@k аЕ.  s  ’       `±ЂЂШ Ѓ   ‚   ѓI  „7  …Є  †  ‡ ‰  рд ґ  ѓ  o  #     АЂАнЃQ ‚" ѓ „¤  …  †  ‡ ! АС      %  <  Ѓ     рЂЂ:Ѓ‘ ‚ ѓ†  „) …j  †  ‡ Q  'I 0 я  Щ  A    `#Ђ`¶ Ѓ ‚8 ѓю  „Я  …G †  ‡`І а8€  =  =  o  щ     шЂа№Ѓ ‚:  ѓB  „“  …: †  ‡АI @а К  Ј  j  М  _    А0Ђ qЃ9 ‚a  ѓy  „"  …°  †  ‡ © `Ј          p       А·ЂЂЇЃB ‚­  ѓ°  „	 …Г  †  ‡ ^ @јb > z  П      IЂ  Ѓ[ ‚щ  ѓР  „У  …«  †  ‡ z Ащ    H        )    аяЂаяЃ‘ ‚­  ѓk  „ …Њ  †  ‡ая ая@  5 U В   Ђ$
+ЂаяЃП ‚Б  ѓД  „2 …• †  ‡аb  Уэ К  Г  ‰  q    `SЂ`x Ѓ   ‚   ѓ   „m  …­  †  ‡ ю `ы! Ф  # З       WЂЂµ Ѓ, ‚   ѓt  „з  …з  †  ‡ X А'щ    	  ‡       mЂ uЃY ‚© ѓ< „) …Ф  †  ‡ Є  в g  С  О  н     JЂ &Ѓу  ‚d  ѓ0  „—  …Щ  †  ‡   а· $       ™  ќ     Ђ ЌЃш ‚њ  ѓ@  „Ъ  …z  †  ‡ЂD `і Ќ Њ  y  Ф  Е     LЂАЏ Ѓ   ‚  ѓ   „R  …і  †  ‡ ‘  ќ ~  `  .  P  d    Ђ.ЂАЉ Ѓ  ‚N  ѓ*  „i  …µ  †  ‡ с  Vh       ’  |     „Ђа8Ѓ` ‚ ѓя  „ …E  †  ‡а `н w h  E  }       вЂ ы ЃП  ‚   ѓ=  „Ю  …  †  ‡ Ћ А! Ѓ  љ  Б  ¬     ‘Ђ ћЃэ ‚ ѓ•  „”  …  †  ‡ @ Ђпю  ?    —  ґ     kЂАDЃ¶ ‚M ѓЕ  „Z …X  †  ‡ ” `ГЧ `  щ  Р    АzЂ ¬ ЃQ ‚U  ѓ·  „б  …}  †  ‡Ђ·  '[    /  t  а     ЊЂ Й Ѓ°  ‚¤  ѓP  „   …Q  †  ‡ ќ  ~) И  Б  ­  Э     ›ЂњX ЃI  ‚C  ѓi  „„  …9 †  ‡ Z АЙ    J     '  Џ    `Ђ@cЃd ‚ь  ѓќ  „ё  …'  †  ‡АB  Ј U     =  a  D    аNЂ@ЃЌ ‚i  ѓm  „µ  …q  †  ‡  ‹V G  G  g  й  p    АЁЂЂDЃ   ‚Y  ѓ   „w  …0  †  ‡ ы Ђў± р  G  А       )Ђ Я Ѓ ‚µ  ѓt  „ґ  …`  †  ‡  Z5    j     [  »     xЂЂЏЃщ ‚_ ѓк  „ј  …[  †  ‡А}  E џ  Х  _  ќ     •Ђ d Ѓ  ‚!  ѓ3  „ѓ  …Е  †  ‡ ђ аЫ¤ г  У  д  Ь     .Ђ@юЃ= ‚Y ѓС  „ …Ъ  †  ‡ Є аI ]  _  ®  S     ЂА№ЃL ‚p ѓщ  „№  …“  †  ‡\$BEGINANALYSIS\0\$BEGINDATA\58\$BEGINSTEXT\0\$BYTEORD\1,2,3,4\$DATATYPE\I\$ENDANALYSIS\0\$ENDDATA\23737\$ENDSTEXT\0\$MODE\L\$NEXTDATA\0\$PAR\8\$TOT\740\$P1B\32\$P1E\0,0\$P1R\1048576\$P1N\FS\$P2B\32\$P2E\0,0\$P2R\1048576\$P2N\SS\$P3B\32\$P3E\0,0\$P3R\1048576\$P3N\FL1\$P4B\32\$P4E\0,0\$P4R\1048576\$P4N\FL2\$P5B\32\$P5E\0,0\$P5R\1048576\$P5N\FL3\$P6B\32\$P6E\0,0\$P6R\1048576\$P6N\FL4\$P7B\32\$P7E\0,0\$P7R\1048576\$P7N\FL5\$P8B\32\$P8E\0,0\$P8R\1024\$P8N\TIME\@CHECKSUM\238042982\@CYTOMETERID\AU40349\@SAMPLEID1\00000098\@SAMPLEID2\ \@SAMPLEID3\ \@BARCODE\NoRead\@SAMPLEID4\ \TESTFILE\BASE SAMPLE335\TESTNAME\BASE SAMPLE335\@CAROUSEL\5\@TUBENO\10\@Y2KDATE\20230801\!@EOFVERSION!1!REFERENCE!0!!@Acquisition Protocol Offset!18808!                                                                                                                                                                                                 ф>’КЂ-M‚Д€ІКM
