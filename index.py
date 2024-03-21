@@ -50,17 +50,15 @@ show(p3_2)
 for any_ in A:
     
     tempCreateFK = fk.Sample(any_)
-    for i in range(0, (len(tempCreateFK.pnn_labels)-1), 2) :
-        temp = (tempCreateFK.pnn_labels)[i]
-        tempp = (tempCreateFK.pnn_labels)[i+1]
-        p = tempCreateFK.plot_scatter(temp, tempp, source='raw')
-        show(p)
+    temp = (tempCreateFK.pnn_labels)
+    
+    p = tempCreateFK.plot_scatter(temp[0], temp[1], source='raw')
+    show(p)
 
 for any_ in B:
     
     tempCreateFK = fk.Sample(any_)
-    for i in range(0, (len(tempCreateFK.pnn_labels)-1), 2) :
-        temp = (tempCreateFK.pnn_labels)[i]
-        tempp = (tempCreateFK.pnn_labels)[i+1]
-        p = tempCreateFK.plot_scatter(temp, tempp, source='raw')
-        show(p)
+    temp = (tempCreateFK.pnn_labels)
+    
+    p = tempCreateFK.plot_scatter(temp[0], temp[1], source='raw')
+    show(p)
